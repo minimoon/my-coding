@@ -1,0 +1,732 @@
+Name	Ind	
+2S	Industrial
+A	Property &amp; Construction/Property Development
+AAV	Services/Transportation &amp; Logistics
+ABC	Consumer Products/Fashion
+ABICO	Agro &amp; Food Industry
+ABPIF	Resources/Energy &amp; Utilities
+ACAP	Financials
+ACC	Consumer Products/Home &amp; Office Products
+ADAM	Services
+ADVANC	Technology/Information &amp; Communication Technology
+AEC	Financials/Finance &amp; Securities
+AEONTS	Financials/Finance &amp; Securities
+AF	Financials
+AFC	Consumer Products/Fashion
+AGE	Resources
+AH	Industrials/Automotive
+AHC	Services/Health Care Services
+AI	Resources/Energy &amp; Utilities
+AIE	Resources
+AIRA	Financials
+AIT	Technology/Information &amp; Communication Technology
+AJ	Industrials/Packaging
+AJD	Consumer Products/Home &amp; Office Products
+AKP	Services
+AKR	Resources/Energy &amp; Utilities
+ALLA	Industrials/Industrial Materials &amp; Machinery
+ALT	Technology/Information &amp; Communication Technology
+ALUCON	Industrials/Packaging
+AMA	Services
+AMANAH	Financials/Finance &amp; Securities
+AMARIN	Services/Media &amp; Publishing
+AMATA	Property &amp; Construction/Property Development
+AMATAR	Property &amp; Construction/Property Fund &amp; REITs
+AMATAV	Property &amp; Construction/Property Development
+AMC	Industrials/Steel
+ANAN	Property &amp; Construction/Property Development
+AOT	Services/Transportation &amp; Logistics
+AP	Property &amp; Construction/Property Development
+APCO	Consumer Products
+APCS	Industrials/Automotive
+APURE	Agro &amp; Food Industry/Food &amp; Beverage
+APX	Property &amp; Construction/Property Development
+AQ	Property &amp; Construction/Property Development
+AQUA	Services/Media &amp; Publishing
+ARIP	Services
+ARROW	Property &amp; Construction
+AS	Services/Media &amp; Publishing
+ASAP	Financials/Finance &amp; Securities
+ASEFA	Industrials/Industrial Materials &amp; Machinery
+ASIA	Services/Tourism &amp; Leisure
+ASIAN	Agro &amp; Food Industry/Food &amp; Beverage
+ASIMAR	Services/Transportation &amp; Logistics
+ASK	Financials/Finance &amp; Securities
+ASN	Financials
+ASP	Financials/Finance &amp; Securities
+ATP30	Services
+AU	Agro &amp; Food Industry
+AUCT	Services
+AYUD	Financials/Insurance
+BA	Services/Transportation &amp; Logistics
+BAFS	Resources/Energy &amp; Utilities
+BANPU	Resources/Energy &amp; Utilities
+BAT-3K	Industrials/Automotive
+BAY	Financials/Banking
+BBL	Financials/Banking
+BCH	Services/Health Care Services
+BCP	Resources/Energy &amp; Utilities
+BCPG	Resources/Energy &amp; Utilities
+BDMS	Services/Health Care Services
+BEAUTY	Services/Commerce
+BEC	Services/Media &amp; Publishing
+BEM	Services/Transportation &amp; Logistics
+BFIT	Financials/Finance &amp; Securities
+BGT	Consumer Products
+BH	Services/Health Care Services
+BIG	Services/Commerce
+BIGC	Services/Commerce
+BIZ	Consumer Products
+BJC	Services/Commerce
+BJCHI	Property &amp; Construction/Construction Services
+BKD	Property &amp; Construction
+BKI	Financials/Insurance
+BKKCP	Property &amp; Construction/Property Fund &amp; REITs
+BLA	Financials/Insurance
+BLAND	Property &amp; Construction/Property Development
+BLISS	Technology/Information &amp; Communication Technology
+BM	Industrial
+BOL	Services
+BPP	Resources/Energy &amp; Utilities
+BR	Agro &amp; Food Industry/Food &amp; Beverage
+BRC	Companies Under Rehabilitation
+BROCK	Property &amp; Construction/Property Development
+BROOK	Financials
+BRR	Agro &amp; Food Industry/Food &amp; Beverage
+BSBM	Industrials/Steel
+BSM	Property &amp; Construction
+BTC	Services/Transportation &amp; Logistics
+BTNC	Consumer Products/Fashion
+BTS	Services/Transportation &amp; Logistics
+BTSGIF	Services/Transportation &amp; Logistics
+BTW	Property &amp; Construction
+BUI	Financials/Insurance
+BWG	Services/Professional Services
+CBG	Agro &amp; Food Industry/Food &amp; Beverage
+CCET	Technology/Electronic Components
+CCN	Technology
+CCP	Property &amp; Construction/Construction Materials
+CEN	Industrials/Steel
+CENTEL	Services/Tourism &amp; Leisure
+CFRESH	Agro &amp; Food Industry/Food &amp; Beverage
+CGD	Property &amp; Construction/Property Development
+CGH	Financials/Finance &amp; Securities
+CHARAN	Financials/Insurance
+CHEWA	Property &amp; Construction
+CHG	Services/Health Care Services
+CHO	Industrial
+CHOTI	Agro &amp; Food Industry/Agribusiness
+CHOW	Industrial
+CHUO	Services
+CI	Property &amp; Construction/Property Development
+CIG	Industrial
+CIMBT	Financials/Banking
+CITY	Industrials/Steel
+CK	Property &amp; Construction/Construction Services
+CKP	Resources/Energy &amp; Utilities
+CM	Agro &amp; Food Industry/Food &amp; Beverage
+CMO	Services
+CMR	Services/Health Care Services
+CNS	Financials/Finance &amp; Securities
+CNT	Property &amp; Construction/Construction Services
+COL	Services/Commerce
+COLOR	Industrial
+COM7	Services/Commerce
+COMAN	Technology
+CPALL	Services/Commerce
+CPF	Agro &amp; Food Industry/Food &amp; Beverage
+CPH	Consumer Products/Fashion
+CPI	Agro &amp; Food Industry/Food &amp; Beverage
+CPL	Consumer Products/Fashion
+CPN	Property &amp; Construction/Property Development
+CPNCG	Property &amp; Construction/Property Fund &amp; REITs
+CPNRF	Property &amp; Construction/Property Fund &amp; REITs
+CPR	Industrial
+CPTGF	Property &amp; Construction/Property Fund &amp; REITs
+CRANE	Industrials/Industrial Materials &amp; Machinery
+CRYSTAL	Property &amp; Construction/Property Fund &amp; REITs
+CSC	Industrials/Packaging
+CSL	Technology/Information &amp; Communication Technology
+CSP	Industrials/Steel
+CSR	Services/Tourism &amp; Leisure
+CSS	Services/Commerce
+CTARAF	Property &amp; Construction/Property Fund &amp; REITs
+CTW	Industrials/Industrial Materials &amp; Machinery
+CWT	Industrials/Automotive
+D	Services
+DCC	Property &amp; Construction/Construction Materials
+DCON	Property &amp; Construction/Construction Materials
+DCORP	Services
+DELTA	Technology/Electronic Components
+DEMCO	Resources/Energy &amp; Utilities
+DIF	Technology/Information &amp; Communication Technology
+DIMET	Property &amp; Construction
+DNA	Services
+DRACO	Technology/Electronic Components
+DRT	Property &amp; Construction/Construction Materials
+DSGT	Consumer Products/Personal Products &amp; Pharmaceuticals
+DTAC	Technology/Information &amp; Communication Technology
+DTC	Services/Tourism &amp; Leisure
+DTCI	Consumer Products/Home &amp; Office Products
+DTCPF	Property &amp; Construction/Property Fund &amp; REITs
+EA	Resources/Energy &amp; Utilities
+EARTH	Resources/Energy &amp; Utilities
+EASON	Industrials/Automotive
+EASTW	Resources/Energy &amp; Utilities
+ECF	Consumer Products
+ECL	Financials/Finance &amp; Securities
+EE	Agro &amp; Food Industry/Agribusiness
+EFORL	Services
+EGATIF	Resources/Energy &amp; Utilities
+EGCO	Resources/Energy &amp; Utilities
+EIC	Technology/Electronic Components
+EKH	Services/Health Care Services
+EMC	Property &amp; Construction/Construction Services
+EPCO	Services/Media &amp; Publishing
+EPG	Property &amp; Construction/Construction Materials
+ERW	Services/Tourism &amp; Leisure
+ERWPF	Property &amp; Construction/Property Fund &amp; REITs
+ESSO	Resources/Energy &amp; Utilities
+ESTAR	Property &amp; Construction/Property Development
+ETE	Services
+EVER	Property &amp; Construction/Property Development
+FANCY	Consumer Products/Home &amp; Office Products
+FC	Agro &amp; Food Industry
+FE	Services/Media &amp; Publishing
+FER	Technology/Information &amp; Communication Technology
+FMT	Industrials/Industrial Materials &amp; Machinery
+FN	Services/Commerce
+FNS	Financials/Finance &amp; Securities
+FOCUS	Property &amp; Construction
+FORTH	Technology/Information &amp; Communication Technology
+FPI	Industrial
+FSMART	Services
+FSS	Financials/Finance &amp; Securities
+FUTUREPF	Property &amp; Construction/Property Fund &amp; REITs
+FVC	Services
+GBX	Financials/Finance &amp; Securities
+GC	Industrials/Petrochemicals &amp; Chemicals
+GCAP	Financials
+GEL	Property &amp; Construction/Construction Materials
+GENCO	Services/Professional Services
+GFPT	Agro &amp; Food Industry/Agribusiness
+GGC	Industrials/Petrochemicals &amp; Chemicals
+GIFT	Industrials/Petrochemicals &amp; Chemicals
+GJS	Industrials/Steel
+GL	Financials/Finance &amp; Securities
+GLAND	Property &amp; Construction/Property Development
+GLANDRT	Property &amp; Construction/Property Fund &amp; REITs
+GLOBAL	Services/Commerce
+GLOW	Resources/Energy &amp; Utilities
+GOLD	Property &amp; Construction/Property Development
+GOLDPF	Property &amp; Construction/Property Fund &amp; REITs
+GPSC	Resources/Energy &amp; Utilities
+GRAMMY	Services/Media &amp; Publishing
+GRAND	Services/Tourism &amp; Leisure
+GREEN	Services/Tourism &amp; Leisure
+GSTEL	Industrials/Steel
+GTB	Industrial
+GUNKUL	Resources/Energy &amp; Utilities
+GVREIT	Property &amp; Construction/Property Fund &amp; REITs
+GYT	Industrials/Automotive
+HANA	Technology/Electronic Components
+HARN	Services
+HFT	Industrials/Automotive
+HMPRO	Services/Commerce
+HOTPOT	Agro &amp; Food Industry
+HPF	Property &amp; Construction/Property Fund &amp; REITs
+HPT	Consumer Products
+HREIT	Property &amp; Construction/Property Fund &amp; REITs
+HTC	Agro &amp; Food Industry/Food &amp; Beverage
+HTECH	Industrial
+HYDRO	Property &amp; Construction
+ICC	Consumer Products/Fashion
+ICHI	Agro &amp; Food Industry/Food &amp; Beverage
+IEC	Resources/Energy &amp; Utilities
+IFEC	Resources/Energy &amp; Utilities
+IFS	Financials/Finance &amp; Securities
+IHL	Industrials/Automotive
+ILINK	Technology/Information &amp; Communication Technology
+IMPACT	Property &amp; Construction/Property Fund &amp; REITs
+INET	Technology/Information &amp; Communication Technology
+INOX	Industrials/Steel
+INSURE	Financials/Insurance
+INTUCH	Technology/Information &amp; Communication Technology
+IRC	Industrials/Automotive
+IRCP	Technology
+IRPC	Resources/Energy &amp; Utilities
+IT	Services/Commerce
+ITD	Property &amp; Construction/Construction Services
+ITEL	Technology
+IVL	Industrials/Petrochemicals &amp; Chemicals
+J	Property &amp; Construction/Property Development
+JAS	Technology/Information &amp; Communication Technology
+JASIF	Technology/Information &amp; Communication Technology
+JCP	Property &amp; Construction/Property Fund &amp; REITs
+JCT	Consumer Products/Personal Products &amp; Pharmaceuticals
+JMART	Technology/Information &amp; Communication Technology
+JMT	Financials/Finance &amp; Securities
+JSP	Property &amp; Construction
+JTS	Technology/Information &amp; Communication Technology
+JUBILE	Consumer Products
+JUTHA	Services/Transportation &amp; Logistics
+JWD	Services/Transportation &amp; Logistics
+K	Property &amp; Construction
+KAMART	Services/Commerce
+KASET	Agro &amp; Food Industry
+KBANK	Financials/Banking
+KBS	Agro &amp; Food Industry/Food &amp; Beverage
+KC	Property &amp; Construction/Property Development
+KCAR	Financials/Finance &amp; Securities
+KCE	Technology/Electronic Components
+KCM	Industrial
+KDH	Services/Health Care Services
+KGI	Financials/Finance &amp; Securities
+KIAT	Services
+KKC	Industrials/Industrial Materials &amp; Machinery
+KKP	Financials/Banking
+KOOL	Services
+KPNPF	Property &amp; Construction/Property Fund &amp; REITs
+KSL	Agro &amp; Food Industry/Food &amp; Beverage
+KTB	Financials/Banking
+KTC	Financials/Finance &amp; Securities
+KTECH	Companies Under Rehabilitation
+KTIS	Agro &amp; Food Industry/Food &amp; Beverage
+KWC	Services/Transportation &amp; Logistics
+KWG	Property &amp; Construction/Property Development
+KYE	Consumer Products/Home &amp; Office Products
+LALIN	Property &amp; Construction/Property Development
+LANNA	Resources/Energy &amp; Utilities
+LDC	Services
+LEE	Agro &amp; Food Industry/Agribusiness
+LH	Property &amp; Construction/Property Development
+LHBANK	Financials/Banking
+LHHOTEL	Property &amp; Construction/Property Fund &amp; REITs
+LHK	Industrials/Steel
+LHPF	Property &amp; Construction/Property Fund &amp; REITs
+LHSC	Property &amp; Construction/Property Fund &amp; REITs
+LIT	Financials
+LOXLEY	Services/Commerce
+LPH	Services/Health Care Services
+LPN	Property &amp; Construction/Property Development
+LRH	Services/Tourism &amp; Leisure
+LST	Agro &amp; Food Industry/Food &amp; Beverage
+LTX	Consumer Products/Fashion
+LUXF	Property &amp; Construction/Property Fund &amp; REITs
+LVT	Industrial
+M	Agro &amp; Food Industry/Food &amp; Beverage
+M-CHAI	Services/Health Care Services
+M-II	Property &amp; Construction/Property Fund &amp; REITs
+M-PAT	Property &amp; Construction/Property Fund &amp; REITs
+M-STOR	Property &amp; Construction/Property Fund &amp; REITs
+MACO	Services/Media &amp; Publishing
+MAJOR	Services/Media &amp; Publishing
+MAKRO	Services/Commerce
+MALEE	Agro &amp; Food Industry/Food &amp; Beverage
+MANRIN	Services/Tourism &amp; Leisure
+MATCH	Services/Media &amp; Publishing
+MATI	Services/Media &amp; Publishing
+MAX	Industrials/Steel
+MBAX	Industrial
+MBK	Property &amp; Construction/Property Development
+MBKET	Financials/Finance &amp; Securities
+MC	Services/Commerce
+MCOT	Services/Media &amp; Publishing
+MCS	Industrials/Steel
+MDX	Resources/Energy &amp; Utilities
+MEGA	Services/Commerce
+METCO	Technology/Electronic Components
+MFC	Financials/Finance &amp; Securities
+MFEC	Technology/Information &amp; Communication Technology
+MGT	Industrial
+MIDA	Services/Commerce
+MILL	Industrials/Steel
+MINT	Agro &amp; Food Industry/Food &amp; Beverage
+MIPF	Property &amp; Construction/Property Fund &amp; REITs
+MIT	Property &amp; Construction/Property Fund &amp; REITs
+MJD	Property &amp; Construction/Property Development
+MJLF	Property &amp; Construction/Property Fund &amp; REITs
+MK	Property &amp; Construction/Property Development
+ML	Financials/Finance &amp; Securities
+MM	Agro &amp; Food Industry
+MNIT	Property &amp; Construction/Property Fund &amp; REITs
+MNIT2	Property &amp; Construction/Property Fund &amp; REITs
+MNRF	Property &amp; Construction/Property Fund &amp; REITs
+MODERN	Consumer Products/Home &amp; Office Products
+MONO	Services/Media &amp; Publishing
+MONTRI	Property &amp; Construction/Property Fund &amp; REITs
+MOONG	Consumer Products
+MPG	Services
+MPIC	Services/Media &amp; Publishing
+MSC	Technology/Information &amp; Communication Technology
+MTI	Financials/Insurance
+MTLS	Financials/Finance &amp; Securities
+NBC	Services
+NC	Consumer Products/Fashion
+NCH	Property &amp; Construction/Property Development
+NCL	Services
+NDR	Industrial
+NEP	Industrials/Packaging
+NETBAY	Technology
+NEW	Services/Health Care Services
+NEWS	Technology
+NFC	Companies Under Rehabilitation
+NINE	Services
+NKI	Financials/Insurance
+NMG	Services/Media &amp; Publishing
+NNCL	Property &amp; Construction/Property Development
+NOBLE	Property &amp; Construction/Property Development
+NOK	Services/Transportation &amp; Logistics
+NPK	Consumer Products
+NPP	Industrials/Packaging
+NSI	Financials/Insurance
+NTV	Services/Health Care Services
+NUSA	Property &amp; Construction/Property Development
+NVD	Property &amp; Construction
+NWR	Property &amp; Construction/Construction Services
+NYT	Services/Transportation &amp; Logistics
+OCC	Consumer Products/Personal Products &amp; Pharmaceuticals
+OCEAN	Consumer Products
+OGC	Consumer Products/Home &amp; Office Products
+OHTL	Services/Tourism &amp; Leisure
+OISHI	Agro &amp; Food Industry/Food &amp; Beverage
+ORI	Property &amp; Construction/Property Development
+OTO	Services
+PACE	Property &amp; Construction/Property Development
+PAE	Property &amp; Construction/Construction Services
+PAF	Consumer Products/Fashion
+PAP	Industrials/Steel
+PATO	Industrials/Petrochemicals &amp; Chemicals
+PB	Agro &amp; Food Industry/Food &amp; Beverage
+PCA	Technology
+PCSGH	Industrials/Automotive
+PDG	Industrial
+PDI	Resources/Mining
+PE	Financials/Finance &amp; Securities
+PERM	Industrials/Steel
+PF	Property &amp; Construction/Property Development
+PG	Consumer Products/Fashion
+PHOL	Services
+PICO	Services
+PIMO	Industrial
+PJW	Industrial
+PK	Industrials/Industrial Materials &amp; Machinery
+PL	Financials/Finance &amp; Securities
+PLANB	Services/Media &amp; Publishing
+PLAT	Property &amp; Construction/Property Development
+PLE	Property &amp; Construction/Construction Services
+PM	Agro &amp; Food Industry/Food &amp; Beverage
+PMTA	Industrials/Petrochemicals &amp; Chemicals
+POLAR	Property &amp; Construction/Property Development
+POMPUI	Companies Under Rehabilitation
+POPF	Property &amp; Construction/Property Fund &amp; REITs
+POST	Services/Media &amp; Publishing
+PPF	Property &amp; Construction/Property Fund &amp; REITs
+PPM	Industrial
+PPP	Property &amp; Construction/Construction Materials
+PPS	Property &amp; Construction
+PR	Agro &amp; Food Industry/Food &amp; Beverage
+PRAKIT	Services/Media &amp; Publishing
+PRANDA	Consumer Products/Fashion
+PREB	Property &amp; Construction/Construction Services
+PRECHA	Property &amp; Construction/Property Development
+PRG	Agro &amp; Food Industry/Food &amp; Beverage
+PRIN	Property &amp; Construction/Property Development
+PRINC	Property &amp; Construction/Property Development
+PRO	Services/Professional Services
+PSH	Property &amp; Construction/Property Development
+PSL	Services/Transportation &amp; Logistics
+PSTC	Resources
+PT	Technology/Information &amp; Communication Technology
+PTG	Resources/Energy &amp; Utilities
+PTL	Industrials/Packaging
+PTT	Resources/Energy &amp; Utilities
+PTTEP	Resources/Energy &amp; Utilities
+PTTGC	Industrials/Petrochemicals &amp; Chemicals
+PYLON	Property &amp; Construction/Construction Services
+Q-CON	Property &amp; Construction/Construction Materials
+QH	Property &amp; Construction/Property Development
+QHHR	Property &amp; Construction/Property Fund &amp; REITs
+QHOP	Property &amp; Construction/Property Fund &amp; REITs
+QHPF	Property &amp; Construction/Property Fund &amp; REITs
+QLT	Services
+QTC	Resources
+RAM	Services/Health Care Services
+RATCH	Resources/Energy &amp; Utilities
+RCI	Property &amp; Construction/Construction Materials
+RCL	Services/Transportation &amp; Logistics
+RICH	Industrials/Steel
+RICHY	Property &amp; Construction/Property Development
+RJH	Services/Health Care Services
+RML	Property &amp; Construction/Property Development
+ROBINS	Services/Commerce
+ROCK	Consumer Products/Home &amp; Office Products
+ROH	Services/Tourism &amp; Leisure
+ROJNA	Property &amp; Construction/Property Development
+RP	Services
+RPC	Resources/Energy &amp; Utilities
+RPH	Services/Health Care Services
+RS	Services/Media &amp; Publishing
+RWI	Industrial
+S	Property &amp; Construction/Property Development
+S &AMP; J	Property &amp; Construction/Property Development
+S11	Financials/Finance &amp; Securities
+SABINA	Consumer Products/Fashion
+SAFARI	Companies Under Rehabilitation
+SALEE	Industrial
+SAM	Industrials/Steel
+SAMART	Technology/Information &amp; Communication Technology
+SAMCO	Property &amp; Construction/Property Development
+SAMTEL	Technology/Information &amp; Communication Technology
+SANKO	Industrial
+SAPPE	Agro &amp; Food Industry/Food &amp; Beverage
+SAT	Industrials/Automotive
+SAUCE	Agro &amp; Food Industry/Food &amp; Beverage
+SAWAD	Financials/Finance &amp; Securities
+SAWANG	Consumer Products/Fashion
+SBPF	Property &amp; Construction/Property Fund &amp; REITs
+SC	Property &amp; Construction/Property Development
+SCB	Financials/Banking
+SCC	Property &amp; Construction/Construction Materials
+SCCC	Property &amp; Construction/Construction Materials
+SCG	Resources/Energy &amp; Utilities
+SCI	Resources/Energy &amp; Utilities
+SCN	Resources/Energy &amp; Utilities
+SCP	Property &amp; Construction/Construction Materials
+SE	Services
+SE-ED	Services/Media &amp; Publishing
+SEAFCO	Property &amp; Construction/Construction Services
+SEAOIL	Resources
+SELIC	Industrial
+SENA	Property &amp; Construction/Property Development
+SF	Property &amp; Construction/Property Development
+SFP	Agro &amp; Food Industry/Food &amp; Beverage
+SGF	Financials
+SGP	Resources/Energy &amp; Utilities
+SHANG	Services/Tourism &amp; Leisure
+SIAM	Consumer Products/Home &amp; Office Products
+SIM	Technology/Information &amp; Communication Technology
+SIMAT	Technology
+SINGER	Services/Commerce
+SIRI	Property &amp; Construction/Property Development
+SIRIP	Property &amp; Construction/Property Fund &amp; REITs
+SIS	Technology/Information &amp; Communication Technology
+SITHAI	Industrials/Packaging
+SKR	Services/Health Care Services
+SLP	Industrials/Packaging
+SMART	Property &amp; Construction
+SMIT	Industrials/Steel
+SMK	Financials/Insurance
+SMM	Services/Media &amp; Publishing
+SMPC	Industrials/Packaging
+SMT	Technology/Electronic Components
+SNC	Industrials/Industrial Materials &amp; Machinery
+SNP	Agro &amp; Food Industry/Food &amp; Beverage
+SOLAR	Resources/Energy &amp; Utilities
+SORKON	Agro &amp; Food Industry/Food &amp; Beverage
+SPA	Services
+SPACK	Industrials/Packaging
+SPALI	Property &amp; Construction/Property Development
+SPC	Services/Commerce
+SPCG	Resources/Energy &amp; Utilities
+SPF	Property &amp; Construction/Property Fund &amp; REITs
+SPG	Industrials/Automotive
+SPI	Services/Commerce
+SPORT	Services/Media &amp; Publishing
+SPPT	Technology/Electronic Components
+SPRC	Resources/Energy &amp; Utilities
+SPVI	Technology
+SQ	Property &amp; Construction/Construction Services
+SR	Resources
+SRICHA	Property &amp; Construction/Construction Services
+SRIPANWA	Property &amp; Construction/Property Fund &amp; REITs
+SSC	Agro &amp; Food Industry/Food &amp; Beverage
+SSF	Agro &amp; Food Industry/Food &amp; Beverage
+SSI	Industrials/Steel
+SSPF	Property &amp; Construction/Property Fund &amp; REITs
+SSSC	Industrials/Steel
+SST	Agro &amp; Food Industry/Food &amp; Beverage
+SSTPF	Property &amp; Construction/Property Fund &amp; REITs
+SSTSS	Property &amp; Construction/Property Fund &amp; REITs
+STA	Agro &amp; Food Industry/Agribusiness
+STANLY	Industrials/Automotive
+STAR	Property &amp; Construction
+STEC	Property &amp; Construction/Construction Services
+STHAI	Consumer Products/Personal Products &amp; Pharmaceuticals
+STPI	Property &amp; Construction/Construction Services
+SUC	Consumer Products/Fashion
+SUPER	Resources/Energy &amp; Utilities
+SUSCO	Resources/Energy &amp; Utilities
+SUTHA	Industrials/Petrochemicals &amp; Chemicals
+SVH	Services/Health Care Services
+SVI	Technology/Electronic Components
+SVOA	Technology/Information &amp; Communication Technology
+SWC	Industrial
+SYMC	Technology/Information &amp; Communication Technology
+SYNEX	Technology/Information &amp; Communication Technology
+SYNTEC	Property &amp; Construction/Construction Services
+T	Property &amp; Construction
+TACC	Agro &amp; Food Industry
+TAE	Resources/Energy &amp; Utilities
+TAKUNI	Resources
+TAPAC	Industrial
+TASCO	Property &amp; Construction/Construction Materials
+TBSP	Services/Media &amp; Publishing
+TC	Agro &amp; Food Industry/Food &amp; Beverage
+TCAP	Financials/Banking
+TCB	Industrials/Petrochemicals &amp; Chemicals
+TCC	Resources/Energy &amp; Utilities
+TCCC	Industrials/Petrochemicals &amp; Chemicals
+TCIF	Property &amp; Construction/Property Fund &amp; REITs
+TCJ	Industrials/Industrial Materials &amp; Machinery
+TCMC	Property &amp; Construction/Construction Materials
+TCOAT	Industrials/Packaging
+TEAM	Technology/Electronic Components
+TF	Agro &amp; Food Industry/Food &amp; Beverage
+TFD	Property &amp; Construction/Property Development
+TFG	Agro &amp; Food Industry/Food &amp; Beverage
+TFI	Industrials/Packaging
+TFUND	Property &amp; Construction/Property Fund &amp; REITs
+TGCI	Property &amp; Construction/Construction Materials
+TGPRO	Industrials/Steel
+TGROWTH	Property &amp; Construction/Property Fund &amp; REITs
+TH	Services/Media &amp; Publishing
+THAI	Services/Transportation &amp; Logistics
+THANA	Property &amp; Construction
+THANI	Financials/Finance &amp; Securities
+THCOM	Technology/Information &amp; Communication Technology
+THE	Industrials/Steel
+THIF	Property &amp; Construction/Property Fund &amp; REITs
+THIP	Industrials/Packaging
+THL	Resources/Mining
+THRE	Financials/Insurance
+THREL	Financials/Insurance
+TIC	Financials/Insurance
+TICON	Property &amp; Construction/Property Development
+TIF1	Property &amp; Construction/Property Fund &amp; REITs
+TIP	Financials/Insurance
+TIPCO	Agro &amp; Food Industry/Food &amp; Beverage
+TISCO	Financials/Banking
+TIW	Industrials/Steel
+TK	Financials/Finance &amp; Securities
+TKN	Agro &amp; Food Industry/Food &amp; Beverage
+TKS	Services/Media &amp; Publishing
+TKT	Industrials/Automotive
+TLGF	Property &amp; Construction/Property Fund &amp; REITs
+TLHPF	Property &amp; Construction/Property Fund &amp; REITs
+TLOGIS	Property &amp; Construction/Property Fund &amp; REITs
+TLUXE	Agro &amp; Food Industry/Agribusiness
+TM	Consumer Products
+TMB	Financials/Banking
+TMC	Industrial
+TMD	Industrials/Packaging
+TMI	Industrial
+TMILL	Agro &amp; Food Industry
+TMT	Industrials/Steel
+TMW	Industrial
+TNDT	Services
+TNH	Services
+TNITY	Financials/Finance &amp; Securities
+TNL	Consumer Products/Fashion
+TNP	Services
+TNPC	Industrials/Automotive
+TNPF	Property &amp; Construction/Property Fund &amp; REITs
+TNR	Consumer Products/Personal Products &amp; Pharmaceuticals
+TOG	Consumer Products/Personal Products &amp; Pharmaceuticals
+TOP	Resources/Energy &amp; Utilities
+TOPP	Industrials/Packaging
+TPA	Industrials/Petrochemicals &amp; Chemicals
+TPAC	Industrial
+TPBI	Industrials/Packaging
+TPCH	Resources
+TPCORP	Consumer Products/Fashion
+TPIPL	Property &amp; Construction/Construction Materials
+TPIPP	Resources/Energy &amp; Utilities
+TPOLY	Property &amp; Construction/Construction Services
+TPP	Industrials/Packaging
+TPRIME	Property &amp; Construction/Property Fund &amp; REITs
+TR	Consumer Products/Fashion
+TRC	Property &amp; Construction/Construction Services
+TREIT	Property &amp; Construction/Property Fund &amp; REITs
+TRIF	Property &amp; Construction/Property Fund &amp; REITs
+TRITN	Services/Media &amp; Publishing
+TRT	Resources
+TRU	Industrials/Automotive
+TRUBB	Agro &amp; Food Industry/Agribusiness
+TRUE	Technology/Information &amp; Communication Technology
+TSC	Industrials/Automotive
+TSE	Resources
+TSF	Services
+TSI	Financials/Insurance
+TSR	Consumer Products/Home &amp; Office Products
+TSTE	Services/Transportation &amp; Logistics
+TSTH	Industrials/Steel
+TTA	Services/Transportation &amp; Logistics
+TTCL	Property &amp; Construction/Construction Services
+TTI	Consumer Products/Fashion
+TTL	Consumer Products/Fashion
+TTLPF	Property &amp; Construction/Property Fund &amp; REITs
+TTTM	Consumer Products/Fashion
+TTW	Resources/Energy &amp; Utilities
+TU	Agro &amp; Food Industry/Food &amp; Beverage
+TU-PF	Property &amp; Construction/Property Fund &amp; REITs
+TUCC	Industrials/Steel
+TVD	Services
+TVI	Financials/Insurance
+TVO	Agro &amp; Food Industry/Food &amp; Beverage
+TVT	Services
+TWP	Industrials/Steel
+TWPC	Agro &amp; Food Industry/Agribusiness
+TWZ	Technology/Information &amp; Communication Technology
+TYCN	Industrials/Steel
+U	Property &amp; Construction/Property Development
+UAC	Industrial
+UBIS	Industrial
+UEC	Industrial
+UKEM	Industrial
+UMI	Property &amp; Construction/Construction Materials
+UMS	Resources
+UNIPF	Property &amp; Construction/Property Fund &amp; REITs
+UNIQ	Property &amp; Construction/Construction Services
+UOBKH	Financials/Finance &amp; Securities
+UP	Industrials/Petrochemicals &amp; Chemicals
+UPA	Technology
+UPF	Consumer Products/Fashion
+UPOIC	Agro &amp; Food Industry/Agribusiness
+URBNPF	Property &amp; Construction/Property Fund &amp; REITs
+UREKA	Industrial
+UT	Consumer Products/Fashion
+UTP	Industrials/Paper &amp; Printing Materials
+UV	Property &amp; Construction/Property Development
+UVAN	Agro &amp; Food Industry/Agribusiness
+UWC	Resources
+VARO	Industrials/Industrial Materials &amp; Machinery
+VGI	Services/Media &amp; Publishing
+VI	Companies Under Rehabilitation
+VIBHA	Services/Health Care Services
+VIH	Services/Health Care Services
+VNG	Property &amp; Construction/Construction Materials
+VNT	Industrials/Petrochemicals &amp; Chemicals
+VPO	Agro &amp; Food Industry/Agribusiness
+VTE	Property &amp; Construction
+WACOAL	Consumer Products/Fashion
+WAVE	Services/Media &amp; Publishing
+WG	Industrials/Petrochemicals &amp; Chemicals
+WHA	Property &amp; Construction/Property Development
+WHABT	Property &amp; Construction/Property Fund &amp; REITs
+WHAPF	Property &amp; Construction/Property Fund &amp; REITs
+WHART	Property &amp; Construction/Property Fund &amp; REITs
+WHAUP	Resources/Energy &amp; Utilities
+WICE	Services/Transportation &amp; Logistics
+WIIK	Property &amp; Construction/Construction Materials
+WIN	Property &amp; Construction/Property Development
+WINNER	Services
+WORK	Services/Media &amp; Publishing
+WORLD	Companies Under Rehabilitation
+WP	Companies Under Rehabilitation
+WR	Companies Under Rehabilitation
+XO	Agro &amp; Food Industry
+YCI	Industrials/Petrochemicals &amp; Chemicals
+YNP	Industrials/Automotive
+YUASA	Industrial
+ZMICO	Financials/Finance &amp; Securities

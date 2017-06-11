@@ -4,10 +4,6 @@ Created on Sun Dec 04 22:00:49 2016
 
 @author: Home
 """
-
-
-
-
 count = 0
 ### import scrape
 import urllib2
@@ -15,9 +11,7 @@ from bs4 import BeautifulSoup
 
 ### import date time
 from datetime import datetime
-
 #==============================================
-
 ### function: time stamp
 def time_stamp():
     tstamp = datetime.now()
@@ -28,33 +22,34 @@ tstart = time_stamp()
 ## Select stock
 ##1.1 Use all stock
 filename = []
-stockname = open('allstock.txt','r')
+stockname = open('004_allstock.txt','r')
 for name in stockname:
     name = name.strip()
     print name
     filename.append(name)
 print filename
 stockname.close()
-
-print '============ choose language ================'
+print '============ choose English language ============='
 lg = 'en'
 print lg
 
-###1.2 Use one stock
-#filename = ['au','col']
-###2. Scrape data from factsheet 
+# print '============ choose Thai language ================'
+# lg = 'th'
+# print lg
+# '========================================================'
 
-linkp = 'http://www.set.or.th/set/factsheet.do?ssoPageId=3&language='+lg+'&country=TH&symbol='
 
-for name in filename:
+prelink = 'http://www.set.or.th/set/factsheet.do?ssoPageId=3&language='+lg+'&country=TH&symbol='
+
+for name in filename[0:3]:
     name = name.upper()
     name = name.strip()
     print name
-    set1 = linkp+name
+    url = prelink+name
     print "=================================="
-    print 'URL link: '+set1
+    print 'URL link: '+url
     
-    page1 = urllib2.urlopen(set1)
+    page1 = urllib2.urlopen(url)
     soup1 = BeautifulSoup(page1)
     
     f3 = open('Factsheet_'+lg+'_'+str(name)+'.txt','w')

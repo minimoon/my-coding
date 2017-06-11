@@ -4,6 +4,7 @@ Created on Sun Dec 04 22:19:23 2016
 
 @author: Home
 """
+count_stock = 0
 from datetime import datetime
 def time_stamp():
     tstamp = datetime.now()
@@ -62,7 +63,7 @@ print tstart
 print '=========================== Stock list ==============================' 
 ######## Select stock name ############
 filename = []
-stockname = open('allstock.txt','r')
+stockname = open('004_allstock.txt','r')
 for name in stockname:
     name = name.strip()
     print name
@@ -74,13 +75,13 @@ stockname.close()
 print filename 
 print '=========================== value - statement =============================='  
   
-f2 = open('Compare_stock_en.txt','w')
+f2 = open('value-en.txt','w')
    
-for name in filename:
+for name in filename[0:3]:
     name = name.strip() 
     
     file_read = ('Factsheet_en_'+str(name)+'.txt') 
-               
+    count_stock +=1         
     try:
         contents = read_content(file_read)
 ### 2. Find year ############ 
@@ -100,7 +101,7 @@ for name in filename:
     except :
         print name+' no content'           
 ############ 3.Find value ############       
-    topics_b = ['Total Revenues','COGs','SG&amp;A','Net Profit'\
+    topics_b = ['Total Revenues','COGs','SG&amp;A','Net Profit','EPS (B.)'\
 #    ,'Cash'\
     ,'Operating Cash Flow                                                                                   '\
     ,'Investing Cash Flow                                                                                   '\
@@ -132,7 +133,8 @@ print '=========================== value - statistic ===========================
 
 for name in filename:
     name = name.strip()
-    file_read = ('Factsheet_en_'+str(name)+'.txt')     
+    file_read = ('Factsheet_en_'+str(name)+'.txt') 
+      
     try:
         contents = read_content(file_read)      
         token = contents
@@ -174,7 +176,8 @@ for name in filename:
     ,'Dividend Yield (%)'\
     ]   
     for topic in topics_a:
-        count_a = -1    
+        count_a = -1
+            
         try:
             contents = read_content(file_read)
             token = contents
@@ -193,6 +196,7 @@ for name in filename:
                 start_a = '">'
                 end_a = '</td>'
                 phase = split_token(start_a,end_a,token)
+                phase = phase[:-2]
                 data_a = str(name+'\t'+topic.strip()+'\t'+year_a+'\t'+phase+'\n')
                 f2.write(data_a)               
         except :
@@ -208,7 +212,7 @@ f2 = open('Business.txt','w')
 def busdetail(name):
     name = name.strip() 
     try:
-        f = open('Factsheet_th_'+str(name)+'.txt','r') 
+        f = open('Factsheet_th_'+str(name)+'.txt','r')
         content_stock = f.read()
         content_stock = str(content_stock)
         f.close()
@@ -339,8 +343,8 @@ f5.close()
 
 ############  Add header - statement data ############
 header = ['Name','Topic','Year','Value']
-file_data = 'Compare_stock_en.txt'
-file_name = 'Compare_stock_en_header.txt'
+file_data = 'value-en.txt'
+file_name = 'value-en_header.txt'
 addheader(header,file_data,file_name)
 
 ############  Add header - business detail ############
@@ -375,6 +379,7 @@ print str(tstart) + ' << start'
 print str(tend) + ' << end'
 running_time = tend-tstart
 print str(running_time) + ' << running'
+print count_stock
 print '========================================'
 
 

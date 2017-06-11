@@ -6,21 +6,14 @@ Created on Sun Dec 04 19:04:20 2016
 """
 
 import urllib2
-from bs4 import BeautifulSoup
 
-set = 'http://www.set.or.th/set/commonslookup.do?msg=nf&amp;language=th&amp;country=TH'
-page = urllib2.urlopen(set)
-
-soup = BeautifulSoup(page)
-
+url = 'http://www.set.or.th/set/commonslookup.do?msg=nf&amp;language=th&amp;country=TH'
+page = urllib2.urlopen(url)
+content = page.read()
+page.close()
    
-f = open('scrape_index.txt','w')
-
-
-f.write(str(soup))
-
+f = open('001_scrape_index.txt','w')
+f.write(str(content))
 f.close()
 
-
-
-print 'finish ja'
+print 'finish "scrape index"'

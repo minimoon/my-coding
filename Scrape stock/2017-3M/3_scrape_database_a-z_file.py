@@ -7,24 +7,21 @@ Created on Sun Dec 04 19:04:20 2016
 
 
 import urllib2
-from bs4 import BeautifulSoup
 
-
-filename = open('stockindexAZ.txt','r')
-
-link = 'http://www.set.or.th/set/commonslookup.do?language=th&country=TH&prefix='
-
+filename = open('002_stockindex_A-Z.txt','r')
+prelink = 'https://www.set.or.th/set/commonslookup.do?language=en&country=TH&prefix='
 count = 0
 
 for name in filename:
     name = name.strip()
-    set = link+name
-    f = open(str(name)+'.txt','w')
+    url = prelink + name
+    f = open('003_'+str(name)+'.txt','w')
     
-    page = urllib2.urlopen(set)
-    soup = BeautifulSoup(page)
-    f.write(str(soup))
+    page = urllib2.urlopen(url)
+    content = page.read()
+    page.close()
     
+    f.write(str(content))
     f.close()
         
     count +=1
@@ -32,4 +29,4 @@ print count
 
 filename.close()
 
-print 'finish ja'
+print 'finish "scrape a-z file"'

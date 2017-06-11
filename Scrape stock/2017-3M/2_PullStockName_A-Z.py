@@ -4,17 +4,16 @@ Created on Sun Dec 04 20:09:53 2016
 
 @author: Home
 """
+## Pull stock name
+f = open('001_scrape_index.txt','r')
 
-
-f = open('scrape_index.txt','r')
-
-start ='<a href="/set/commonslookup.do?language=th&amp;country=TH&amp;prefix='
-
+#start = '<a href="/set/commonslookup.do?language=th&amp;country=TH&amp;prefix='
+start = '<a href="/set/commonslookup.do?language=th&amp;country=TH&prefix='
 start2 = 'prefix='
 end2 = '">'
 lines = f.readlines()
 count = 0
-f2 = open('stockindexAZ.txt','w')
+f2 = open('002_stockindex_A-Z.txt','w')
 
 for line in lines:
     line2 = line.strip()
@@ -24,11 +23,13 @@ for line in lines:
         f2.write('\n')
         print str(line2),
         count +=1
-print count
+
 f2.close()
         
 f.close()
-
+print '#############################################'
+print count
+print 'finish "pull stock a-z"'
 
 
 

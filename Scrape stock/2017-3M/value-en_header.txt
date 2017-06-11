@@ -1,0 +1,193 @@
+Name	Topic	Year	Value	
+2S	Total Revenues	3M/2017	1,119.19
+2S	Total Revenues	3M/2016	1,034.66
+2S	Total Revenues	2016	3,946.83
+2S	Total Revenues	2015	3,714.00
+2S	Total Revenues	2014	4,246.66
+2S	COGs	3M/2017	938.94
+2S	COGs	3M/2016	861.95
+2S	COGs	2016	3,337.06
+2S	COGs	2015	3,503.76
+2S	COGs	2014	4,025.43
+2S	SG&amp;A	3M/2017	50.73
+2S	SG&amp;A	3M/2016	41.89
+2S	SG&amp;A	2016	169.71
+2S	SG&amp;A	2015	147.92
+2S	SG&amp;A	2014	146.63
+2S	Net Profit	3M/2017	100.91
+2S	Net Profit	3M/2016	102.24
+2S	Net Profit	2016	343.07
+2S	Net Profit	2015	33.72
+2S	Net Profit	2014	41.90
+2S	EPS (B.)	3M/2017	0.34
+2S	EPS (B.)	3M/2016	0.34
+2S	EPS (B.)	2016	1.14
+2S	EPS (B.)	2015	0.11
+2S	EPS (B.)	2014	0.15
+2S	Operating Cash Flow	3M/2017	128.59
+2S	Operating Cash Flow	3M/2016	115.23
+2S	Operating Cash Flow	2016	-74.82
+2S	Operating Cash Flow	2015	237.87
+2S	Operating Cash Flow	2014	106.11
+2S	Investing Cash Flow	3M/2017	-20.37
+2S	Investing Cash Flow	3M/2016	-2.49
+2S	Investing Cash Flow	2016	-78.88
+2S	Investing Cash Flow	2015	-30.16
+2S	Investing Cash Flow	2014	-80.25
+2S	Financing Cash Flow	3M/2017	-92.24
+2S	Financing Cash Flow	3M/2016	-120.22
+2S	Financing Cash Flow	2016	178.07
+2S	Financing Cash Flow	2015	-211.44
+2S	Financing Cash Flow	2014	-48.00
+2S	D/E (X)	3M/2017	0.54
+2S	D/E (X)	3M/2016	0.40
+2S	D/E (X)	2016	0.67
+2S	D/E (X)	2015	0.59
+2S	Gross Profit Margin (%)	3M/2017	15.64
+2S	Gross Profit Margin (%)	3M/2016	16.45
+2S	Gross Profit Margin (%)	2016	15.23
+2S	Gross Profit Margin (%)	2015	5.25
+2S	Net Profit Margin (%)	3M/2017	9.02
+2S	Net Profit Margin (%)	3M/2016	9.88
+2S	Net Profit Margin (%)	2016	8.69
+2S	Net Profit Margin (%)	2015	0.91
+A	Total Revenues	3M/2017	1,160.21
+A	Total Revenues	3M/2016	1,147.17
+A	Total Revenues	2016	4,724.97
+A	Total Revenues	2015	5,453.70
+A	Total Revenues	2014	2,559.35
+A	COGs	3M/2017	735.45
+A	COGs	3M/2016	794.82
+A	COGs	2016	3,059.39
+A	COGs	2015	4,018.18
+A	COGs	2014	1,643.68
+A	SG&amp;A	3M/2017	323.70
+A	SG&amp;A	3M/2016	227.85
+A	SG&amp;A	2016	1,043.20
+A	SG&amp;A	2015	971.88
+A	SG&amp;A	2014	713.86
+A	Net Profit	3M/2017	29.07
+A	Net Profit	3M/2016	62.66
+A	Net Profit	2016	263.34
+A	Net Profit	2015	216.69
+A	Net Profit	2014	41.27
+A	EPS (B.)	3M/2017	0.03
+A	EPS (B.)	3M/2016	0.06
+A	EPS (B.)	2016	0.27
+A	EPS (B.)	2015	0.22
+A	EPS (B.)	2014	0.04
+A	Operating Cash Flow	3M/2017	316.70
+A	Operating Cash Flow	3M/2016	407.62
+A	Operating Cash Flow	2016	206.89
+A	Operating Cash Flow	2015	-2.14
+A	Operating Cash Flow	2014	-1,750.28
+A	Investing Cash Flow	3M/2017	-38.65
+A	Investing Cash Flow	3M/2016	-24.59
+A	Investing Cash Flow	2016	-77.44
+A	Investing Cash Flow	2015	-3.57
+A	Investing Cash Flow	2014	-286.29
+A	Financing Cash Flow	3M/2017	-108.21
+A	Financing Cash Flow	3M/2016	-418.40
+A	Financing Cash Flow	2016	-113.79
+A	Financing Cash Flow	2015	90.62
+A	Financing Cash Flow	2014	2,149.25
+A	D/E (X)	3M/2017	3.08
+A	D/E (X)	3M/2016	3.12
+A	D/E (X)	2016	3.08
+A	D/E (X)	2015	3.16
+A	Gross Profit Margin (%)	3M/2017	35.01
+A	Gross Profit Margin (%)	3M/2016	29.76
+A	Gross Profit Margin (%)	2016	34.17
+A	Gross Profit Margin (%)	2015	25.61
+A	Net Profit Margin (%)	3M/2017	2.51
+A	Net Profit Margin (%)	3M/2016	5.46
+A	Net Profit Margin (%)	2016	5.57
+A	Net Profit Margin (%)	2015	3.97
+AAV	Total Revenues	3M/2017	9,545.62
+AAV	Total Revenues	3M/2016	9,183.00
+AAV	Total Revenues	2016	33,130.30
+AAV	Total Revenues	2015	30,463.58
+AAV	Total Revenues	2014	26,275.30
+AAV	COGs	3M/2017	7,569.21
+AAV	COGs	3M/2016	6,467.06
+AAV	COGs	2016	26,687.76
+AAV	COGs	2015	25,315.08
+AAV	COGs	2014	23,707.65
+AAV	SG&amp;A	3M/2017	747.16
+AAV	SG&amp;A	3M/2016	663.49
+AAV	SG&amp;A	2016	2,636.08
+AAV	SG&amp;A	2015	2,377.36
+AAV	SG&amp;A	2014	1,924.90
+AAV	Net Profit	3M/2017	570.32
+AAV	Net Profit	3M/2016	1,009.08
+AAV	Net Profit	2016	1,869.46
+AAV	Net Profit	2015	1,078.48
+AAV	Net Profit	2014	183.18
+AAV	EPS (B.)	3M/2017	0.12
+AAV	EPS (B.)	3M/2016	0.21
+AAV	EPS (B.)	2016	0.39
+AAV	EPS (B.)	2015	0.22
+AAV	EPS (B.)	2014	0.04
+AAV	Operating Cash Flow	3M/2017	1,459.55
+AAV	Operating Cash Flow	3M/2016	2,361.18
+AAV	Operating Cash Flow	2016	4,381.56
+AAV	Operating Cash Flow	2015	3,007.27
+AAV	Operating Cash Flow	2014	1,848.96
+AAV	Investing Cash Flow	3M/2017	-339.09
+AAV	Investing Cash Flow	3M/2016	-470.57
+AAV	Investing Cash Flow	2016	-2,785.59
+AAV	Investing Cash Flow	2015	882.78
+AAV	Investing Cash Flow	2014	2,025.37
+AAV	Financing Cash Flow	3M/2017	-593.94
+AAV	Financing Cash Flow	3M/2016	-443.02
+AAV	Financing Cash Flow	2016	-3,098.13
+AAV	Financing Cash Flow	2015	-2,529.05
+AAV	Financing Cash Flow	2014	-1,030.76
+AAV	D/E (X)	3M/2017	1.26
+AAV	D/E (X)	3M/2016	1.16
+AAV	D/E (X)	2016	1.24
+AAV	D/E (X)	2015	1.23
+AAV	Gross Profit Margin (%)	3M/2017	17.28
+AAV	Gross Profit Margin (%)	3M/2016	27.76
+AAV	Gross Profit Margin (%)	2016	17.63
+AAV	Gross Profit Margin (%)	2015	14.21
+AAV	Net Profit Margin (%)	3M/2017	5.97
+AAV	Net Profit Margin (%)	3M/2016	10.99
+AAV	Net Profit Margin (%)	2016	5.64
+AAV	Net Profit Margin (%)	2015	3.54
+2S	Market Cap (MB.)	09 Jun 2017	2,320.00
+2S	Market Cap (MB.)	2016	2,055.00
+2S	Market Cap (MB.)	2015	774.00
+2S	Price (B./share)	09 Jun 2017	5.80
+2S	Price (B./share)	2016	5.14
+2S	Price (B./share)	2015	1.94
+2S	P/E (X)	09 Jun 2017	6.79
+2S	P/E (X)	2016	7.53
+2S	P/E (X)	2015	48.55
+2S	Dividend Yield (%)	09 Jun 2017	2.33
+2S	Dividend Yield (%)	2016	1.46
+2S	Dividend Yield (%)	2015	3.88
+A	Market Cap (MB.)	09 Jun 2017	6,419.00
+A	Market Cap (MB.)	2016	6,174.00
+A	Market Cap (MB.)	2015	5,978.00
+A	Price (B./share)	09 Jun 2017	6.55
+A	Price (B./share)	2016	6.30
+A	Price (B./share)	2015	6.10
+A	P/E (X)	09 Jun 2017	27.94
+A	P/E (X)	2016	23.29
+A	P/E (X)	2015	28.03
+A	Dividend Yield (%)	09 Jun 2017	0.76
+A	Dividend Yield (%)	2016	0.63
+A	Dividend Yield (%)	2015	N/A
+AAV	Market Cap (MB.)	09 Jun 2017	30,312.50
+AAV	Market Cap (MB.)	2016	29,342.50
+AAV	Market Cap (MB.)	2015	25,462.50
+AAV	Price (B./share)	09 Jun 2017	6.25
+AAV	Price (B./share)	2016	6.05
+AAV	Price (B./share)	2015	5.25
+AAV	P/E (X)	09 Jun 2017	21.19
+AAV	P/E (X)	2016	13.95
+AAV	P/E (X)	2015	20.64
+AAV	Dividend Yield (%)	09 Jun 2017	2.40
+AAV	Dividend Yield (%)	2016	1.65
+AAV	Dividend Yield (%)	2015	N/A

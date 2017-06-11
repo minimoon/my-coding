@@ -1,0 +1,1373 @@
+<!DOCTYPE html>
+<html lang="en">
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]> <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <!--<![endif]-->
+<head>
+<meta charset="utf-8"/>
+<meta content="IE=edge,chrome=1,IE=8" http-equiv="X-UA-Compatible"/>
+<meta content="The Stock Exchange of Thailand: Your Investment Resource for Thailand's Capital Market" name="description"/>
+<meta content="SET, mai, thai stocks, Thailand, stock, stock exchange, Thai capital market, equity, bond, derivatives, stock market, quotes, financial, internet trading, listed companies, IPO, regulations, broker, market data, investment information, news, investor education" name="keywords"/>
+<meta content="width=device-width, initial-scale=1, user-scalable=yes" name="viewport"/>
+<title>The Stock Exchange of Thailand - Company Summary</title>
+<link href="/images/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon"/>
+<link href="/styles/bootstrap.min.css" rel="stylesheet"/>
+<link href="/styles/bootstrap-theme.min.css" rel="stylesheet"/>
+<link href="/styles/font-awesome.min.css" rel="stylesheet"/>
+<link href="/styles/bootstrap-submenu.min.css" rel="stylesheet"/>
+<link href="/styles/main.css" rel="stylesheet"/>
+<link href="/styles/main-en.css" rel="stylesheet"/>
+<link href="/styles/setstyle.css" rel="stylesheet"/>
+<link href="/styles/main-responsive.css" rel="stylesheet"/>
+<link href="/styles/tablet.css" rel="stylesheet"/>
+<link href="/scripts/fullcalendar-2.1.1/fullcalendar.min.css" rel="stylesheet"/>
+<!--[if lt IE 10]><link rel="stylesheet" href="/styles/ie.css"> <![endif]-->
+<script src="/scripts/vendor/jquery-1.11.2.min.js"></script>
+<!-- Start Other CSS -->
+<!-- Start Chart CSS -->
+<link href="/styles/chart.css" rel="stylesheet"/>
+<!-- End Chart CSS -->
+<!-- End Other CSS -->
+<!--[if lt IE 9]>
+    <script src="/scripts/vendor/html5shiv.min.js"></script>
+    <script src="/scripts/vendor/modernizr-2.6.2-respond-1.1.0.min.js"></script>
+    <![endif]-->
+<!-- Facebook Pixel Code -->
+<script>
+	!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+			n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+		n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+		t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+			document,'script','https://connect.facebook.net/en_US/fbevents.js');
+
+	fbq('init', '1613758345606983');
+	fbq('track', "PageView");
+</script>
+<noscript><img height="1" src="https://www.facebook.com/tr?id=1613758345606983&amp;ev=PageView&amp;noscript=1" style="display:none" width="1"/></noscript>
+<!-- End Facebook Pixel Code -->
+</head><body>
+<link href="/set/styles/factsheet.css" rel="stylesheet" type="text/css"/>
+<table align="center" bgcolor="#FFFFFF" border="0" cellpadding="0" cellspacing="0" width="795">
+<tr>
+<td>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr valign="bottom">
+<td align="left" class="topic-blue" nowrap="nowrap">Company Summary</td>
+<td align="right"><img src="/images/logo-set-newsdetail.gif"/></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr height="1">
+<td style="border-bottom:1px solid #000000; height: 3px;"></td>
+</tr>
+<tr>
+<td>
+<table border="0" cellpadding="3" cellspacing="0" class="table-factsheet-padding3" width="100%">
+<tr align="left">
+<td class="factsheet-heading" nowrap="nowrap" valign="bottom" width="100">UNIQ</td>
+<td class="factsheet-heading2" valign="bottom">UNIQUE ENGINEERING AND CONSTRUCTION PUBLIC COMPANY LIMITED </td>
+</tr>
+</table>
+<table border="0" bordercolor="white" cellpadding="3" cellspacing="0" class="table-factsheet-padding3" frame="below" rules="rows" width="100%">
+<tr>
+<td colspan="2"><table border="0" cellpadding="2" cellspacing="0" width="100%">
+<tr>
+<td align="left" class="factsheet-noline" nowrap="nowrap" style="vertical-align:top;" width="30%"><table cellpadding="0" cellspacing="0" class="table-factsheet-padding0" width="100%">
+<tr>
+<td align="left" class="factsheet-noline" nowrap="nowrap">Property &amp; Construction/Construction Services    </td>
+</tr>
+<tr>
+<td align="left" class="factsheet-noline" nowrap="nowrap">SET100    </td>
+</tr>
+<tr>
+<td align="left" class="factsheet-noline" nowrap="nowrap">CG Report:   -    </td>
+</tr>
+</table>
+</td>
+<td align="left" class="factsheet-noline" nowrap="nowrap" style="vertical-align:top;" width="50%">
+ </td>
+<td class="factsheet-noline" style="vertical-align:top;" width="20%">
+<table cellpadding="0" cellspacing="0" class="table-factsheet-padding0" width="100%">
+<tr>
+<td align="right" nowrap="nowrap" style="background-color:#000000; color:#FFFFFF; font-weight:bold;">  Data as of 09 Jun 2017  </td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2"><table border="0" cellpadding="0" cellspacing="0" class="table-factsheet-padding0" width="100%">
+<tr>
+<td align="center" class="factsheet-head"><strong>Price (B.)</strong></td>
+<td align="center" class="factsheet-head"><strong>52 Week High/Low</strong></td>
+<td align="center" class="factsheet-head"><strong>P/E (X)</strong></td>
+<td align="center" class="factsheet-head"><strong>P/BV (X)</strong></td>
+<td align="center" class="factsheet-head"><strong>Paid-up (MB.)</strong></td>
+<td align="center" class="factsheet-head"><strong>Market Cap (MB.)</strong></td>
+<td align="center" class="factsheet-head"><strong>EV (MB.)</strong></td>
+<td align="center" class="factsheet-head"><strong>EBITDA (MB.)</strong></td>
+<td align="center" class="factsheet-head"><strong>EV/EBITDA</strong></td>
+</tr>
+<tr>
+<td align="center" class="factsheet" style="color: #000000; font-weight: bold;">17.50</td>
+<td align="center" class="factsheet" style="color: #000000; font-weight: bold;">21.10 / 13.40</td>
+<td align="center" class="factsheet" style="color: #000000; font-weight: bold;">20.37</td>
+<td align="center" class="factsheet" style="color: #000000; font-weight: bold;">2.87</td>
+<td align="center" class="factsheet" style="color: #000000; font-weight: bold;">1,081.02</td>
+<td align="center" class="factsheet" style="color: #000000; font-weight: bold;">18,917.78</td>
+<td align="center" class="factsheet" style="color: #000000; font-weight: bold;">36,399.72</td> <td align="center" class="factsheet" style="color: #000000; font-weight: bold;">620.08</td>
+<td align="center" class="factsheet" style="color: #000000; font-weight: bold;">14.64</td> </tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style="vertical-align:top;" width="50%">
+<table border="0" cellpadding="0" cellspacing="0" class="factsheet table-factsheet-padding0" width="100%">
+<tr align="left" valign="middle">
+<td class="factsheet-head" colspan="2"><strong>News</strong></td>
+</tr>
+<tr>
+<td align="center" class="factsheet" nowrap="nowrap" width="30%"><strong>Date/Time     </strong></td>
+<td align="center" class="factsheet" nowrap="nowrap" width="70%"><strong>Subject     </strong></td>
+</tr>
+<tr>
+<td class="factsheet">15 May 2017 07:16      </td> <td class="factsheet">Financial Statement Quarter 1/2017 (Reviewed)     </td> </tr> <tr>
+<td class="factsheet">15 May 2017 07:16      </td> <td class="factsheet">Management Discussion and Analysis Quarter 1 Ending 31 Mar 2017     </td> </tr> <tr>
+<td class="factsheet">15 May 2017 07:16      </td> <td class="factsheet">Appointment of additional Corporate Secretary     </td> </tr> <tr>
+<td class="factsheet">15 May 2017 07:15      </td> <td class="factsheet">Reviewed Quarter 1 and Consolidated F/S (F45-3)     </td> </tr> <tr>
+<td class="factsheet">10 Apr 2017 07:46      </td> <td class="factsheet">Notification of the Resolution of the 2017 Annual General Meeting of Shareholders     </td> </tr> <tr>
+<td align="right" colspan="2">
+<a class="factsheet" href="/set/companynews.do?symbol=UNIQ&amp;ssoPageId=8&amp;language=en&amp;country=US">
+more
+</a></td>
+</tr>
+</table><br/>
+<table border="0" cellpadding="0" cellspacing="0" class="factsheet table-factsheet-padding0" width="100%">
+<tr align="left" valign="middle">
+<td class="factsheet-head" colspan="4"><strong>Company Profile</strong></td>
+</tr>
+<tr>
+<td class="factsheet" nowrap="nowrap">Address</td>
+<td class="factsheet" colspan="3">JASMINE INTERNATIONAL TOWER, FLOOR 15, 200 MOO 4, CHAENGWATTANA ROAD, PAK KRET Nonthaburi 11120</td>
+</tr>
+<tr>
+<td class="factsheet" nowrap="nowrap">Telephone</td>
+<td class="factsheet" colspan="3">0-2582-1888</td>
+</tr><tr>
+<td class="factsheet" nowrap="nowrap">Fax</td>
+<td class="factsheet" colspan="3">0-2582-3196  </td></tr>
+<tr>
+<td class="factsheet" nowrap="nowrap">URL</td>
+<td class="factsheet" colspan="3"><a class="factsheet" href="http://www.unique.co.th" target="_blank">http://www.unique.co.th</a> </td></tr>
+<tr>
+<td class="factsheet" nowrap="nowrap" width="18%">Establish Date</td>
+<td class="factsheet" width="32%">29/07/1994</td>
+<td class="factsheet" nowrap="nowrap" width="18%">Listed Date</td>
+<td class="factsheet" width="32%">30/03/2007</td>
+</tr>
+<tr>
+<td class="factsheet" nowrap="nowrap">IPO Price (Baht)</td>
+<td align="right" class="factsheet">1.80</td>
+<td class="factsheet" colspan="2" nowrap="nowrap">@Par1.00 Baht</td>
+</tr>
+<tr>
+<td class="factsheet" nowrap="nowrap">IPO Financial Advisory</td>
+<td class="factsheet" colspan="3">
+<li>SEAMICO SECURITIES PUBLIC COMPANY LIMITED</li>
+</td>
+</tr>
+<tr>
+<td class="factsheet" nowrap="nowrap">Par</td>
+<td class="factsheet" colspan="3">1.00 Baht</td>
+</tr>
+<tr>
+<td class="factsheet" nowrap="nowrap">Last Par Change</td>
+<td class="factsheet" colspan="3">N/A</td>
+</tr>
+</table>
+<br/>
+<table border="0" cellpadding="0" cellspacing="0" class="factsheet table-factsheet-padding0" width="100%">
+<tr align="left" valign="middle">
+<td class="factsheet-head" colspan="2"><strong>Market/Industry/Sector Change</strong></td>
+</tr>
+<tr>
+<td class="factsheet" nowrap="nowrap">Effective Date</td>
+<td class="factsheet" nowrap="nowrap">02/01/2014</td>
+</tr>
+<tr>
+<td class="factsheet" nowrap="nowrap">Previous Market/Industry/Sector</td>
+<td class="factsheet" nowrap="nowrap">SET      / Property &amp; Construction / Property Development</td>
+</tr>
+<tr>
+<td class="factsheet" nowrap="nowrap">Current Market/Industry/Sector</td>
+<td class="factsheet" nowrap="nowrap">SET      / Property &amp; Construction / Construction Services</td>
+</tr>
+</table>
+<br/>
+<table border="0" cellpadding="0" cellspacing="0" class="table-factsheet-padding0" width="100%">
+<tr align="left" valign="middle">
+<td class="factsheet-head"><strong>Business</strong></td>
+</tr>
+<tr>
+<td class="factsheet">The Company engages in the business of engineering and construction by being the main contractor invlovling turnkey design services. The Company provides engineering and construction services of fundamental infrastructure which focused mainly on medium and large infrastructure project. Its real estate development business is involved in the development and sales of residential properties, including single-detached houses and townhouses in Bangkok and its vicinity.</td>
+</tr>
+</table>
+<br/><table border="0" cellpadding="0" cellspacing="0" class="factsheet table-factsheet-padding0" width="100%">
+<tr>
+<td class="factsheet-noline" width="33%">Free Float</td>
+<td align="center" class="topicbg factsheet-noline" colspan="2"><strong>15 Mar 2017</strong></td>
+<td align="center" class="topicbg factsheet-noline" colspan="2"><strong>04 Mar 2016</strong></td>
+</tr>
+<tr>
+<td class="factsheet-noline">% /Shareholders</td>
+<td colspan="4">
+<table border="0" cellpadding="0" cellspacing="0" class="factsheet table-factsheet-padding0" width="100%">
+<tr align="right">
+<td style="border-left: 1px solid #EDEDED; border-top: 1px solid #EDEDED; border-bottom: 1px solid #EDEDED;" width="25%"><font class="factsheet">52.06%</font></td>
+<td style="border: 1px solid #EDEDED;" width="25%"><font class="factsheet">7,603</font></td>
+<td style="border-left: 1px solid #EDEDED; border-top: 1px solid #EDEDED; border-bottom: 1px solid #EDEDED;" width="25%"><font class="factsheet">52.33%</font></td>
+<td style="border: 1px solid #EDEDED;" width="25%"><font class="factsheet">6,483</font></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" class="factsheet table-factsheet-padding0" width="100%">
+<tr align="right">
+<td align="left" class="factsheet-noline" nowrap="nowrap">Foreign Shareholders</td>
+<td align="left" class="factsheet-noline" nowrap="nowrap">17.85% (As of 09/06/2017)</td>
+<td align="center" class="factsheet-noline" nowrap="nowrap">Foreign Limit</td>
+<td class="factsheet-noline" nowrap="nowrap">49.00%</td>
+</tr>
+<tr align="right">
+<td align="left" class="factsheet-noline" nowrap="nowrap">
+NVDR Shareholders     </td>
+<td align="left" class="factsheet-noline" nowrap="nowrap">
+ 5.12% (As of 09/06/2017)     </td>
+<td class="factsheet-noline" colspan="2"></td>
+</tr>
+</table>
+</td>
+<td style="vertical-align:top;" width="50%">
+<table border="0" cellpadding="0" cellspacing="0" class="table-factsheet-padding0" width="100%">
+<tr>
+<td class="factsheet-head"><strong>3 Yr Price Performance (Adjusted Price)</strong></td>
+</tr>
+<tr>
+<td align="left">
+<script src="/scripts/amcharts-3.17.1/amcharts.js" type="text/javascript"></script>
+<script src="/scripts/amcharts-3.17.1/serial.js" type="text/javascript"></script>
+<script type="text/javascript">
+         // declaring variables
+        var chart;
+        var dataProvider;
+        // this method called after all page contents are loaded 
+        window.onload = function() {
+          createChart(); 
+          loadCSV("/dat/eod/listedcompany/stockprice/UNIQ.csv");
+        }
+        function loadCSV(file) {
+          if (window.XMLHttpRequest) {
+            // IE7+, Firefox, Chrome, Opera, Safari
+            var request = new XMLHttpRequest();
+          } else {
+            // code for IE6, IE5
+            var request = new ActiveXObject('Microsoft.XMLHTTP');
+          }
+          // load
+          request.open('GET', file, false);
+          request.send();
+          parseCSV(request.responseText);
+        }
+        function parseCSV(data){
+          //replace UNIX new lines
+          data = data.replace (/\r\n/g, "\n");
+          //replace MAC new lines
+          data = data.replace (/\r/g, "\n");
+          //split into rows
+          var rows = data.split("\n");
+          // create array which will hold our data:
+          dataProvider = [];
+          // loop through all rows
+          for (var i = 0; i < rows.length; i++){
+            var column = rows[i].split(","); 
+            var dateArray = column[0].split("/");
+            var stock = column[1];
+            var sector = column[2];
+            var market = column[3];
+            if (i > 0 && column[0] !="") {
+                 var date = column[0];
+              var dataObject = {date:date, stock:stock, sector:sector, market: market}
+              dataProvider.push(dataObject);
+            }
+          }
+          // set data provider to the chart
+          chart.dataProvider = dataProvider;
+           // this will force chart to rebuild using new data 
+          chart.validateData();
+        }
+        function createChart(){
+          chart = new AmCharts.AmSerialChart();
+          chart.categoryField = "date";
+          chart.dataDateFormat = "dd/MM/yyyy";
+          var graphStock = new AmCharts.AmGraph();
+          graphStock.valueField = "stock";
+          graphStock.balloonText = "[[value]]%";
+          graphStock.lineThickness = 2;
+          graphStock.lineColor = "#0000CC";
+          graphStock.title = "UNIQ";
+          chart.addGraph(graphStock); 
+          var graphSector = new AmCharts.AmGraph();
+          graphSector.valueField = "sector";
+          graphSector.balloonText = "[[value]]%";
+          graphSector.lineColor = "#55BBFF";
+          graphSector.title = "CONS";
+          chart.addGraph(graphSector); 
+          var graphMarket = new AmCharts.AmGraph();
+          graphMarket.valueField = "market";
+          graphMarket.balloonText = "[[value]]%";
+          graphMarket.lineColor = "#FF7700";
+          graphMarket.title = "SET";
+          chart.addGraph(graphMarket); 
+          var chartCursor = new AmCharts.ChartCursor();
+          chartCursor.cursorPosition = "mouse";
+          chart.addChartCursor(chartCursor);
+          var legend = new AmCharts.AmLegend();
+          legend.position = "bottom";
+          legend.spacing = 0;
+          legend.markerSize = 9;
+          legend.markerType = "circle";
+          legend.markerLabelGap = 3;
+          legend.maxColumns = 4
+          legend.showEntries = true;
+          legend.fontSize = 10;
+          legend.valueWidth = 40;
+          legend.valueText = "[[value]]%";
+          legend.useMarkerColorForLabels = true;
+          chart.addLegend(legend);
+          var verticleAxis = new AmCharts.ValueAxis();
+          verticleAxis.unit = "%";
+          chart.addValueAxis(verticleAxis);
+          chart.write("chartdiv");
+        }
+      </script>
+<div align="left" id="chartdiv" style="width:400px; height:250px; background-color:#FFFFFF"></div>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" class="table-factsheet-padding0" width="100%">
+<tr align="center">
+<td align="left" class="factsheet-head"><strong>Price Performance (Adjusted Price)</strong></td>
+<td class="factsheet-head"><strong>Compare to Stock (%)</strong></td>
+<td class="factsheet-head"><strong>Compare to Sector (%)</strong></td>
+<td class="factsheet-head"><strong>Compare to Market (%)</strong></td>
+</tr>
+<tr>
+<td class="factsheet">5 Days</td>
+<td align="right" class="factsheet-green">2.94</td>
+<td align="right" class="factsheet-green">2.40</td>
+<td align="right" class="factsheet-green">3.00</td>
+</tr>
+<tr>
+<td class="factsheet">20 Days</td>
+<td align="right" class="factsheet-green">3.55</td>
+<td align="right" class="factsheet-green">3.67</td>
+<td align="right" class="factsheet-green">3.13</td>
+</tr>
+<tr>
+<td class="factsheet">60 Days</td>
+<td align="right" class="factsheet-red">-5.41</td>
+<td align="right" class="factsheet-red">-2.58</td>
+<td align="right" class="factsheet-red">-6.46</td>
+</tr>
+<tr>
+<td class="factsheet">120 Days</td>
+<td align="right" class="factsheet-red">-4.89</td>
+<td align="right" class="factsheet-green">2.12</td>
+<td align="right" class="factsheet-red">-7.34</td>
+</tr>
+<tr>
+<td class="factsheetb">YTD</td>
+<td align="right" class="factsheetb-red">-11.62</td>
+<td align="right" class="factsheetb-red">-3.77</td>
+<td align="right" class="factsheetb-red">-12.95</td>
+</tr>
+<tr align="right">
+<td align="left" class="factsheet">P/E (X)</td>
+<td class="factsheet">20.37</td>
+<td class="factsheet">26.94</td>
+<td class="factsheet">16.25</td>
+</tr>
+<tr align="right">
+<td align="left" class="factsheet">P/BV (X)</td>
+<td class="factsheet">2.87</td>
+<td class="factsheet">2.16</td>
+<td class="factsheet">1.88</td>
+</tr>
+<tr align="right">
+<td align="left" class="factsheet">Turnover Ratio (%)</td>
+<td class="factsheet">0.49</td>
+<td class="factsheet">0.22</td>
+<td class="factsheet">0.43</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<br/><table border="0" cellpadding="0" cellspacing="0" class="table-factsheet-padding0" width="100%">
+<tr align="center" valign="middle">
+<td align="left" class="factsheet-head" colspan="2"><strong>Top 10 Major Shareholders(@15 Mar 2017)</strong></td>
+<td align="center" class="factsheet-head"><strong>Share</strong></td>
+<td align="center" class="factsheet-head"><strong>%</strong></td>
+</tr>
+<tr align="left">
+<td align="right" class="factsheet" nowrap="nowrap" width="5">1.</td>
+<td align="left" class="factsheet">นาง ถนอมศรี สุดโต</td>
+<td align="right" class="factsheet">249,131,849</td>
+<td align="right" class="factsheet">23.05</td>
+</tr>
+<tr align="left">
+<td align="right" class="factsheet" nowrap="nowrap" width="5">2.</td>
+<td align="left" class="factsheet">นาย เกรียงศักดิ์ สุวิวัฒน์ธนชัย</td>
+<td align="right" class="factsheet">137,602,172</td>
+<td align="right" class="factsheet">12.73</td>
+</tr>
+<tr align="left">
+<td align="right" class="factsheet" nowrap="nowrap" width="5">3.</td>
+<td align="left" class="factsheet">  STATE STREET BANK EUROPE LIMITED</td>
+<td align="right" class="factsheet">73,624,000</td>
+<td align="right" class="factsheet">6.81</td>
+</tr>
+<tr align="left">
+<td align="right" class="factsheet" nowrap="nowrap" width="5">4.</td>
+<td align="left" class="factsheet">บริษัท  ไทยเอ็นวีดีอาร์ จำกัด</td>
+<td align="right" class="factsheet">67,939,624</td>
+<td align="right" class="factsheet">6.28</td>
+</tr>
+<tr align="left">
+<td align="right" class="factsheet" nowrap="nowrap" width="5">5.</td>
+<td align="left" class="factsheet">นาย ธวัช เสริมคชสีห์</td>
+<td align="right" class="factsheet">57,819,488</td>
+<td align="right" class="factsheet">5.35</td>
+</tr>
+<tr align="left">
+<td align="right" class="factsheet" nowrap="nowrap" width="5">6.</td>
+<td align="left" class="factsheet">  NORTRUST NOMINEES LIMITED-BRITISH COLUMBIA INVESTMENT MANAGEMENT CORPORATION</td>
+<td align="right" class="factsheet">28,412,210</td>
+<td align="right" class="factsheet">2.63</td>
+</tr>
+<tr align="left">
+<td align="right" class="factsheet" nowrap="nowrap" width="5">7.</td>
+<td align="left" class="factsheet">  N.C.B.TRUST LIMITED-NORGES BANK 11</td>
+<td align="right" class="factsheet">20,524,400</td>
+<td align="right" class="factsheet">1.90</td>
+</tr>
+<tr align="left">
+<td align="right" class="factsheet" nowrap="nowrap" width="5">8.</td>
+<td align="left" class="factsheet">นาย สมภพ สุวิวัฒน์ธนชัย</td>
+<td align="right" class="factsheet">17,071,656</td>
+<td align="right" class="factsheet">1.58</td>
+</tr>
+<tr align="left">
+<td align="right" class="factsheet" nowrap="nowrap" width="5">9.</td>
+<td align="left" class="factsheet">  CHASE NOMINEES LIMITED</td>
+<td align="right" class="factsheet">13,077,440</td>
+<td align="right" class="factsheet">1.21</td>
+</tr>
+<tr align="left">
+<td align="right" class="factsheet" nowrap="nowrap" width="5">10.</td>
+<td align="left" class="factsheet">นาย ไพโรจน์ ศิวะพรชัย</td>
+<td align="right" class="factsheet">11,909,900</td>
+<td align="right" class="factsheet">1.10</td>
+</tr>
+</table>
+<br/><table border="0" cellpadding="0" cellspacing="0" class="table-factsheet-padding0" width="100%">
+<tr align="center" valign="middle">
+<td align="left" class="factsheet-head" colspan="2"><strong>Management</strong></td>
+<td align="right" class="factsheet-head"><strong>Position</strong></td>
+</tr>
+<tr align="left">
+<td align="right" class="factsheet" nowrap="nowrap">1.</td>
+<td align="left" class="factsheet" width="55%">Mr. NATEE PANICHEWA</td>
+<td align="right" class="factsheet" width="45%">CHAIRMAN</td>
+</tr>
+<tr align="left">
+<td align="right" class="factsheet" nowrap="nowrap">2.</td>
+<td align="left" class="factsheet" width="55%">Miss KORAPAT SUVIVATTANACHAI</td>
+<td align="right" class="factsheet" width="45%">DIRECTOR</td>
+</tr>
+<tr align="left">
+<td align="right" class="factsheet" nowrap="nowrap">3.</td>
+<td align="left" class="factsheet" width="55%">Miss SOMJAI PATHUMTONG</td>
+<td align="right" class="factsheet" width="45%">DIRECTOR</td>
+</tr>
+<tr align="left">
+<td align="right" class="factsheet" nowrap="nowrap">4.</td>
+<td align="left" class="factsheet" width="55%">Mr. BOONCHAI PRITIVICHAKANT</td>
+<td align="right" class="factsheet" width="45%">DIRECTOR</td>
+</tr>
+<tr align="left">
+<td align="right" class="factsheet" nowrap="nowrap">5.</td>
+<td align="left" class="factsheet" width="55%">Miss PEREYA SUVIWATTANACHAI</td>
+<td align="right" class="factsheet" width="45%">DIRECTOR</td>
+</tr>
+<tr align="left">
+<td align="right" class="factsheet" nowrap="nowrap">6.</td>
+<td align="left" class="factsheet" width="55%">Mr. PRASONG SUVIWATTANACHAI</td>
+<td align="right" class="factsheet" width="45%">DIRECTOR</td>
+</tr>
+<tr align="left">
+<td align="right" class="factsheet" nowrap="nowrap">7.</td>
+<td align="left" class="factsheet" width="55%">Mr. SAMRIENG MEKKRIENGKRAI</td>
+<td align="right" class="factsheet" width="45%">INDEPENDENT DIRECTOR</td>
+</tr>
+<tr align="left">
+<td align="right" class="factsheet" nowrap="nowrap">8.</td>
+<td align="left" class="factsheet" width="55%">Miss WARINTRA WONGSONGJA</td>
+<td align="right" class="factsheet" width="45%">INDEPENDENT DIRECTOR / AUDIT COMMITTEE</td>
+</tr>
+<tr align="left">
+<td align="right" class="factsheet" nowrap="nowrap">9.</td>
+<td align="left" class="factsheet" width="55%">Mr. SOMPRASONG MAKKASAMAN</td>
+<td align="right" class="factsheet" width="45%">INDEPENDENT DIRECTOR / AUDIT COMMITTEE</td>
+</tr>
+<tr align="left">
+<td align="right" class="factsheet" nowrap="nowrap">10.</td>
+<td align="left" class="factsheet" width="55%">Mrs. SUPALAK PINITPUVADOL</td>
+<td align="right" class="factsheet" width="45%">AUDIT COMMITTEE</td>
+</tr>
+</table>
+</td>
+<td>
+<table border="0" cellpadding="0" cellspacing="0" class="table-factsheet-padding0" width="100%">
+<tr>
+<td align="right" class="remark" colspan="4">Accumulated: Turnover Ratio, Value Trade/Day</td>
+</tr>
+<tr>
+<td align="left" class="factsheet-head" nowrap="nowrap" width="25%"><strong>Statistics</strong></td>
+<td align="right" class="factsheet-head" nowrap="nowrap"><strong>YTD<br/>09 Jun 2017</strong></td>
+<td align="right" class="factsheet-head" nowrap="nowrap"><strong>2016<br/>30 Dec 2016</strong></td>
+<td align="right" class="factsheet-head" nowrap="nowrap"><strong>2015<br/>30 Dec 2015</strong></td>
+</tr>
+<tr>
+<td class="factsheet" nowrap="nowrap">Listed share (M.)</td>
+<td align="right" class="factsheet" nowrap="nowrap">1,081.02 </td>
+<td align="right" class="factsheet" nowrap="nowrap">1,081.02 </td>
+<td align="right" class="factsheet" nowrap="nowrap">1,081.02 </td>
+</tr>
+<tr>
+<td class="factsheet" nowrap="nowrap">Market Cap (MB.)</td>
+<td align="right" class="factsheet" nowrap="nowrap">18,917.78 </td>
+<td align="right" class="factsheet" nowrap="nowrap">21,404.12 </td>
+<td align="right" class="factsheet" nowrap="nowrap">23,782.36 </td>
+</tr>
+<tr>
+<td class="factsheet" nowrap="nowrap">Price (B./share)</td>
+<td align="right" class="factsheet" nowrap="nowrap">17.50 </td>
+<td align="right" class="factsheet" nowrap="nowrap">19.80 </td>
+<td align="right" class="factsheet" nowrap="nowrap">22.00 </td>
+</tr>
+<tr>
+<td class="factsheet">BVPS (B./Share)</td>
+<td align="right" class="factsheet" nowrap="nowrap">6.11 </td>
+<td align="right" class="factsheet" nowrap="nowrap">5.99 </td>
+<td align="right" class="factsheet" nowrap="nowrap">5.49 </td>
+</tr>
+<tr>
+<td class="factsheet" nowrap="nowrap">P/BV (X)</td>
+<td align="right" class="factsheet" nowrap="nowrap">2.87 </td>
+<td align="right" class="factsheet" nowrap="nowrap">3.30 </td>
+<td align="right" class="factsheet" nowrap="nowrap">4.01 </td>
+</tr>
+<tr>
+<td class="factsheet" nowrap="nowrap">P/E (X)</td>
+<td align="right" class="factsheet" nowrap="nowrap">20.37 </td>
+<td align="right" class="factsheet" nowrap="nowrap">25.45 </td>
+<td align="right" class="factsheet" nowrap="nowrap">39.03 </td>
+</tr>
+<tr>
+<td class="factsheet">Turnover Ratio (%)</td>
+<td align="right" class="factsheet" nowrap="nowrap">78.58 </td>
+<td align="right" class="factsheet" nowrap="nowrap">196.06 </td>
+<td align="right" class="factsheet" nowrap="nowrap">191.20 </td>
+</tr>
+<tr>
+<td class="factsheet">Value Trade/Day (MB.)</td>
+<td align="right" class="factsheet" nowrap="nowrap">145.88 </td>
+<td align="right" class="factsheet" nowrap="nowrap">153.67 </td>
+<td align="right" class="factsheet" nowrap="nowrap">141.01 </td>
+</tr>
+<tr>
+<td class="factsheet">Beta</td>
+<td align="right" class="factsheet" nowrap="nowrap">1.59 </td>
+<td align="right" class="factsheet" nowrap="nowrap">1.46 </td>
+<td align="right" class="factsheet" nowrap="nowrap">1.40 </td>
+</tr>
+<tr>
+<td colspan="4"> </td>
+</tr>
+<tr>
+<td align="left" class="factsheet-head"><strong>Rate of Return</strong></td>
+<td align="right" class="factsheet-head" nowrap="nowrap"><strong>YTD </strong></td>
+<td align="right" class="factsheet-head" nowrap="nowrap"><strong>2016 </strong></td>
+<td align="right" class="factsheet-head" nowrap="nowrap"><strong>2015 </strong></td>
+</tr>
+<tr>
+<td class="factsheet" nowrap="nowrap">Price Change (%)</td>
+<td align="right" class="factsheet" nowrap="nowrap">-11.62 </td>
+<td align="right" class="factsheet" nowrap="nowrap">-10.00 </td>
+<td align="right" class="factsheet" nowrap="nowrap">91.30 </td>
+</tr>
+<tr>
+<td class="factsheet" nowrap="nowrap">Dividend Yield (%)</td>
+<td align="right" class="factsheet" nowrap="nowrap">1.89 </td>
+<td align="right" class="factsheet" nowrap="nowrap">1.36 </td>
+<td align="right" class="factsheet" nowrap="nowrap">0.86 </td>
+</tr>
+<tr>
+<td class="factsheet" nowrap="nowrap">Payout Ratio</td>
+<td align="right" class="factsheet" nowrap="nowrap">0.38 </td>
+<td align="right" class="factsheet" nowrap="nowrap">0.35 </td>
+<td align="right" class="factsheet" nowrap="nowrap">0.34 </td>
+</tr>
+<tr>
+<td class="factsheet" nowrap="nowrap">Dividend Policy</td>
+<td class="factsheet" colspan="3">Not less than 40% of net profit after deducting other reserves as per the Company?s articles of association and governing law</td>
+</tr>
+</table>
+<br/><table border="0" cellpadding="0" cellspacing="0" class="table-factsheet-padding0" width="100%">
+<tr align="left" valign="middle">
+<td class="factsheet-head" colspan="5"><strong>Dividend</strong></td>
+</tr>
+<tr>
+<td align="center" class="factsheet"><strong>Operation Period</strong></td>
+<td align="center" class="factsheet"><strong>Dividend/Share</strong></td>
+<td align="center" class="factsheet"><strong>Unit</strong></td>
+<td align="center" class="factsheet"><strong>Payment Date</strong></td>
+<td align="center" class="factsheet"><strong>Type</strong></td>
+</tr>
+<tr>
+<td align="center" class="factsheet">01 Jan 2016 - 31 Dec 2016</td>
+<td align="right" class="factsheet">0.33</td>
+<td align="center" class="factsheet">Baht</td>
+<td align="center" class="factsheet">04 May 2017</td>
+<td align="center" class="factsheet">Cash</td>
+</tr>
+<tr>
+<td align="center" class="factsheet">01 Jan 2015 - 31 Dec 2015</td>
+<td align="right" class="factsheet">0.27</td>
+<td align="center" class="factsheet">Baht</td>
+<td align="center" class="factsheet">27 Apr 2016</td>
+<td align="center" class="factsheet">Cash</td>
+</tr>
+<tr>
+<td align="center" class="factsheet">01 Jan 2014 - 31 Dec 2014</td>
+<td align="right" class="factsheet">0.19</td>
+<td align="center" class="factsheet">Baht</td>
+<td align="center" class="factsheet">30 Apr 2015</td>
+<td align="center" class="factsheet">Cash</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2"> </td>
+</tr>
+<tr>
+<td colspan="2"><table cellspacing="0" class="table-factsheet-padding0" width="100%">
+<tr>
+<td align="left" class="factsheet-noline" width="20%"><strong>Auditor<br/>(Effective Until 31/12/2017)</strong></td>
+<td align="left">
+<table cellspacing="0" class="table-factsheet-padding0" width="100%">
+<tr>
+<td class="factsheet-noline">MISS WIMOLSRI JONGUDOMSOMBUT/BAKER TILLY AUDIT AND ADVISORY SERVICES (THAILAND) LTD.</td>
+</tr>
+<tr>
+<td class="factsheet-noline">MR. APICHART SAYASIT/BAKER TILLY AUDIT AND ADVISORY SERVICES (THAILAND) LTD.</td>
+</tr>
+<tr>
+<td class="factsheet-noline">MISS WALEERAT AKKARASRISAWAD/BAKER TILLY AUDIT AND ADVISORY SERVICES (THAILAND) LTD.</td>
+</tr>
+</table>
+</td>
+<td align="right" class="factsheet-noline" nowrap="nowrap" width="200">F/S Year ended</td>
+<td align="right" class="factsheet-noline" nowrap="nowrap" width="50">31/12</td>
+</tr>
+<tr>
+<td align="left" class="factsheet-noline"><strong>Latest Type of Report</strong></td>
+<td align="left" class="factsheet-noline" colspan="3" nowrap="nowrap">
+Unqualified opinion     </td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<table border="0" cellpadding="0" cellspacing="0" class="table-factsheet-padding0" width="100%">
+<tr>
+<td align="center" class="factsheet-head"><strong>Financial Data</strong></td> </tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2" width="100%">
+<table border="0" cellpadding="0" cellspacing="0" class="table-factsheet-padding0" width="100%">
+<tr>
+<td align="left" class="factsheet-head"><strong>Statement of Financial Position (MB.)</strong></td>
+<td align="right" class="factsheet-head" nowrap="nowrap"><strong>3M/2017 <br/>(01/01/17 <br/> -31/03/17) </strong></td>
+<td align="right" class="factsheet-head" nowrap="nowrap"><strong>3M/2016 <br/>(01/01/16 <br/> -31/03/16) </strong></td>
+<td align="right" class="factsheet-head" nowrap="nowrap"><strong>2016 <br/>(01/01/16 <br/> -31/12/16) </strong></td>
+<td align="right" class="factsheet-head" nowrap="nowrap"><strong>2015 <br/>(01/01/15 <br/> -31/12/15) </strong></td>
+<td align="right" class="factsheet-head" nowrap="nowrap"><strong>2014 <br/>(01/01/14 <br/> -31/12/14) </strong></td>
+</tr>
+<tr>
+<td align="left" class="factsheet">Cash</td>
+<td align="right" class="factsheet" nowrap="nowrap">628.66</td>
+<td align="right" class="factsheet" nowrap="nowrap">485.04</td>
+<td align="right" class="factsheet" nowrap="nowrap">754.93</td>
+<td align="right" class="factsheet" nowrap="nowrap">326.49</td>
+<td align="right" class="factsheet" nowrap="nowrap">627.47</td>
+</tr>
+<tr>
+<td align="left" class="factsheet">A/R Net</td>
+<td align="right" class="factsheet" nowrap="nowrap">15,347.33</td>
+<td align="right" class="factsheet" nowrap="nowrap">11,407.53</td>
+<td align="right" class="factsheet" nowrap="nowrap">14,924.25</td>
+<td align="right" class="factsheet" nowrap="nowrap">11,658.13</td>
+<td align="right" class="factsheet" nowrap="nowrap">8,622.20</td>
+</tr>
+<tr>
+<td align="left" class="factsheet">Inventories</td>
+<td align="right" class="factsheet" nowrap="nowrap">1,250.92</td>
+<td align="right" class="factsheet" nowrap="nowrap">594.66</td>
+<td align="right" class="factsheet" nowrap="nowrap">862.84</td>
+<td align="right" class="factsheet" nowrap="nowrap">832.38</td>
+<td align="right" class="factsheet" nowrap="nowrap">1,052.69</td>
+</tr>
+<tr>
+<td align="left" class="factsheet">Current Assets</td>
+<td align="right" class="factsheet" nowrap="nowrap">18,801.02</td>
+<td align="right" class="factsheet" nowrap="nowrap">13,540.52</td>
+<td align="right" class="factsheet" nowrap="nowrap">17,837.98</td>
+<td align="right" class="factsheet" nowrap="nowrap">13,727.94</td>
+<td align="right" class="factsheet" nowrap="nowrap">11,326.63</td>
+</tr>
+<tr>
+<td align="left" class="factsheet">PP&amp;E Net</td>
+<td align="right" class="factsheet" nowrap="nowrap">5,204.66</td>
+<td align="right" class="factsheet" nowrap="nowrap">4,209.69</td>
+<td align="right" class="factsheet" nowrap="nowrap">5,207.77</td>
+<td align="right" class="factsheet" nowrap="nowrap">4,301.75</td>
+<td align="right" class="factsheet" nowrap="nowrap">4,414.75</td>
+</tr>
+<tr>
+<td align="left" class="factsheet-tb">Total Assets</td>
+<td align="right" class="factsheet-tb" nowrap="nowrap">24,713.60</td>
+<td align="right" class="factsheet-tb" nowrap="nowrap">18,507.57</td>
+<td align="right" class="factsheet-tb" nowrap="nowrap">23,735.01</td>
+<td align="right" class="factsheet-tb" nowrap="nowrap">18,990.49</td>
+<td align="right" class="factsheet-tb" nowrap="nowrap">17,333.76</td>
+</tr>
+<tr>
+<td align="left" class="factsheet">OD</td>
+<td align="right" class="factsheet" nowrap="nowrap">3,651.66</td>
+<td align="right" class="factsheet" nowrap="nowrap">2,444.00</td>
+<td align="right" class="factsheet" nowrap="nowrap">3,474.76</td>
+<td align="right" class="factsheet" nowrap="nowrap">3,099.27</td>
+<td align="right" class="factsheet" nowrap="nowrap">2,095.12</td>
+</tr>
+<tr>
+<td align="left" class="factsheet">A/P Net</td>
+<td align="right" class="factsheet" nowrap="nowrap">8,263.54</td>
+<td align="right" class="factsheet" nowrap="nowrap">4,596.01</td>
+<td align="right" class="factsheet" nowrap="nowrap">7,320.22</td>
+<td align="right" class="factsheet" nowrap="nowrap">4,258.01</td>
+<td align="right" class="factsheet" nowrap="nowrap">117.09</td>
+</tr>
+<tr>
+<td align="left" class="factsheet">Current portion of LT</td>
+<td align="right" class="factsheet" nowrap="nowrap">1,070.41</td>
+<td align="right" class="factsheet" nowrap="nowrap">1,187.17</td>
+<td align="right" class="factsheet" nowrap="nowrap">1,172.53</td>
+<td align="right" class="factsheet" nowrap="nowrap">1,188.36</td>
+<td align="right" class="factsheet" nowrap="nowrap">850.15</td>
+</tr>
+<tr>
+<td align="left" class="factsheet">Current Liabilities</td>
+<td align="right" class="factsheet" nowrap="nowrap">16,141.27</td>
+<td align="right" class="factsheet" nowrap="nowrap">11,077.07</td>
+<td align="right" class="factsheet" nowrap="nowrap">15,041.24</td>
+<td align="right" class="factsheet" nowrap="nowrap">11,235.99</td>
+<td align="right" class="factsheet" nowrap="nowrap">9,657.16</td>
+</tr>
+<tr>
+<td align="left" class="factsheet">Non-Current Liabilities</td>
+<td align="right" class="factsheet" nowrap="nowrap">1,969.22</td>
+<td align="right" class="factsheet" nowrap="nowrap">1,396.54</td>
+<td align="right" class="factsheet" nowrap="nowrap">1,945.78</td>
+<td align="right" class="factsheet" nowrap="nowrap">1,595.11</td>
+<td align="right" class="factsheet" nowrap="nowrap">2,024.47</td>
+</tr>
+<tr>
+<td align="left" class="factsheet-tb">Total Liabilities</td>
+<td align="right" class="factsheet-tb" nowrap="nowrap">18,110.50</td>
+<td align="right" class="factsheet-tb" nowrap="nowrap">12,473.62</td>
+<td align="right" class="factsheet-tb" nowrap="nowrap">16,987.02</td>
+<td align="right" class="factsheet-tb" nowrap="nowrap">12,831.10</td>
+<td align="right" class="factsheet-tb" nowrap="nowrap">11,681.63</td>
+</tr>
+<tr>
+<td align="left" class="factsheet">Authorized Capital</td>
+<td align="right" class="factsheet" nowrap="nowrap">1,081.02</td>
+<td align="right" class="factsheet" nowrap="nowrap">1,081.02</td>
+<td align="right" class="factsheet" nowrap="nowrap">1,081.02</td>
+<td align="right" class="factsheet" nowrap="nowrap">1,081.02</td>
+<td align="right" class="factsheet" nowrap="nowrap">1,081.51</td>
+</tr>
+<tr>
+<td align="left" class="factsheet">Paid-Up Capital</td>
+<td align="right" class="factsheet" nowrap="nowrap">1,081.02</td>
+<td align="right" class="factsheet" nowrap="nowrap">1,081.02</td>
+<td align="right" class="factsheet" nowrap="nowrap">1,081.02</td>
+<td align="right" class="factsheet" nowrap="nowrap">1,081.02</td>
+<td align="right" class="factsheet" nowrap="nowrap">1,081.02</td>
+</tr>
+<tr>
+<td align="left" class="factsheet">Premium (Discount) on Share Capital</td>
+<td align="right" class="factsheet" nowrap="nowrap">2,462.87</td>
+<td align="right" class="factsheet" nowrap="nowrap">2,462.87</td>
+<td align="right" class="factsheet" nowrap="nowrap">2,462.87</td>
+<td align="right" class="factsheet" nowrap="nowrap">2,462.87</td>
+<td align="right" class="factsheet" nowrap="nowrap">2,462.87</td>
+</tr>
+<tr>
+<td align="left" class="factsheet">Other Surplus (Deficit)</td>
+<td align="right" class="factsheet" nowrap="nowrap">-</td>
+<td align="right" class="factsheet" nowrap="nowrap">-</td>
+<td align="right" class="factsheet" nowrap="nowrap">-</td>
+<td align="right" class="factsheet" nowrap="nowrap">-</td>
+<td align="right" class="factsheet" nowrap="nowrap">-</td>
+</tr>
+<tr>
+<td align="left" class="factsheet">Retained Earnings (Deficit)</td>
+<td align="right" class="factsheet" nowrap="nowrap">3,059.11</td>
+<td align="right" class="factsheet" nowrap="nowrap">2,489.95</td>
+<td align="right" class="factsheet" nowrap="nowrap">3,203.98</td>
+<td align="right" class="factsheet" nowrap="nowrap">2,615.39</td>
+<td align="right" class="factsheet" nowrap="nowrap">2,108.16</td>
+</tr>
+<tr>
+<td align="left" class="factsheet">Treasury Stock</td>
+<td align="right" class="factsheet" nowrap="nowrap">-</td>
+<td align="right" class="factsheet" nowrap="nowrap">-</td>
+<td align="right" class="factsheet" nowrap="nowrap">-</td>
+<td align="right" class="factsheet" nowrap="nowrap">-</td>
+<td align="right" class="factsheet" nowrap="nowrap">-</td>
+</tr>
+<tr>
+<td align="left" class="factsheet-tb">Shareholders' Equity</td>
+<td align="right" class="factsheet-tb" nowrap="nowrap">6,603.00</td>
+<td align="right" class="factsheet-tb" nowrap="nowrap">6,033.84</td>
+<td align="right" class="factsheet-tb" nowrap="nowrap">6,747.88</td>
+<td align="right" class="factsheet-tb" nowrap="nowrap">6,159.28</td>
+<td align="right" class="factsheet-tb" nowrap="nowrap">5,652.05</td>
+</tr>
+<tr>
+<td align="left" class="factsheet">Minority Interest</td>
+<td align="right" class="factsheet" nowrap="nowrap">0.10</td>
+<td align="right" class="factsheet" nowrap="nowrap">0.11</td>
+<td align="right" class="factsheet" nowrap="nowrap">0.12</td>
+<td align="right" class="factsheet" nowrap="nowrap">0.11</td>
+<td align="right" class="factsheet" nowrap="nowrap">0.07</td>
+</tr>
+<tr>
+<td align="right" colspan="6"><a class="factsheet" href="/set/companyfinance.do?type=balance&amp;symbol=UNIQ&amp;language=en&amp;country=US">more</a></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2" width="100%">
+<table border="0" cellpadding="0" cellspacing="0" class="table-factsheet-padding0" width="100%">
+<tr>
+<td align="left" class="factsheet-head"><strong>Statement of Comprehensive Income (MB.)</strong></td>
+<td align="right" class="factsheet-head" nowrap="nowrap"><strong>3M/2017 <br/>(01/01/17 <br/> -31/03/17) </strong></td>
+<td align="right" class="factsheet-head" nowrap="nowrap"><strong>3M/2016 <br/>(01/01/16 <br/> -31/03/16) </strong></td>
+<td align="right" class="factsheet-head" nowrap="nowrap"><strong>2016 <br/>(01/01/16 <br/> -31/12/16) </strong></td>
+<td align="right" class="factsheet-head" nowrap="nowrap"><strong>2015 <br/>(01/01/15 <br/> -31/12/15) </strong></td>
+<td align="right" class="factsheet-head" nowrap="nowrap"><strong>2014 <br/>(01/01/14 <br/> -31/12/14) </strong></td>
+</tr>
+<tr>
+<td align="left" class="factsheet">Sales</td>
+<td align="right" class="factsheet" nowrap="nowrap">3,007.22</td>
+<td align="right" class="factsheet" nowrap="nowrap">2,413.02</td>
+<td align="right" class="factsheet" nowrap="nowrap">12,555.46</td>
+<td align="right" class="factsheet" nowrap="nowrap">10,069.75</td>
+<td align="right" class="factsheet" nowrap="nowrap">8,108.70</td>
+</tr>
+<tr>
+<td align="left" class="factsheet">Other Income</td>
+<td align="right" class="factsheet" nowrap="nowrap">18.60</td>
+<td align="right" class="factsheet" nowrap="nowrap">16.16</td>
+<td align="right" class="factsheet" nowrap="nowrap">109.68</td>
+<td align="right" class="factsheet" nowrap="nowrap">113.09</td>
+<td align="right" class="factsheet" nowrap="nowrap">91.45</td>
+</tr>
+<tr>
+<td align="left" class="factsheet-tb">Total Revenues</td>
+<td align="right" class="factsheet-tb" nowrap="nowrap">3,025.82</td>
+<td align="right" class="factsheet-tb" nowrap="nowrap">2,429.18</td>
+<td align="right" class="factsheet-tb" nowrap="nowrap">12,665.14</td>
+<td align="right" class="factsheet-tb" nowrap="nowrap">10,182.84</td>
+<td align="right" class="factsheet-tb" nowrap="nowrap">8,200.15</td>
+</tr>
+<tr>
+<td align="left" class="factsheet">COGs</td>
+<td align="right" class="factsheet" nowrap="nowrap">2,451.32</td>
+<td align="right" class="factsheet" nowrap="nowrap">1,921.09</td>
+<td align="right" class="factsheet" nowrap="nowrap">10,448.69</td>
+<td align="right" class="factsheet" nowrap="nowrap">8,274.85</td>
+<td align="right" class="factsheet" nowrap="nowrap">6,635.35</td>
+</tr>
+<tr>
+<td align="left" class="factsheet">SG&amp;A</td>
+<td align="right" class="factsheet" nowrap="nowrap">202.62</td>
+<td align="right" class="factsheet" nowrap="nowrap">154.04</td>
+<td align="right" class="factsheet" nowrap="nowrap">706.70</td>
+<td align="right" class="factsheet" nowrap="nowrap">638.21</td>
+<td align="right" class="factsheet" nowrap="nowrap">594.52</td>
+</tr>
+<tr>
+<td align="left" class="factsheet-tb">Total Expenses</td>
+<td align="right" class="factsheet-tb" nowrap="nowrap">2,662.93</td>
+<td align="right" class="factsheet-tb" nowrap="nowrap">2,128.61</td>
+<td align="right" class="factsheet-tb" nowrap="nowrap">11,189.95</td>
+<td align="right" class="factsheet-tb" nowrap="nowrap">8,940.57</td>
+<td align="right" class="factsheet-tb" nowrap="nowrap">7,259.43</td>
+</tr>
+<tr>
+<td align="left" class="factsheet">EBITDA</td>
+<td align="right" class="factsheet" nowrap="nowrap">620.08</td>
+<td align="right" class="factsheet" nowrap="nowrap">511.84</td>
+<td align="right" class="factsheet" nowrap="nowrap">2,377.36</td>
+<td align="right" class="factsheet" nowrap="nowrap">2,034.74</td>
+<td align="right" class="factsheet" nowrap="nowrap">1,671.32</td>
+</tr>
+<tr>
+<td align="left" class="factsheet">Depre. &amp; Amor.</td>
+<td align="right" class="factsheet" nowrap="nowrap">257.18</td>
+<td align="right" class="factsheet" nowrap="nowrap">211.28</td>
+<td align="right" class="factsheet" nowrap="nowrap">902.18</td>
+<td align="right" class="factsheet" nowrap="nowrap">792.47</td>
+<td align="right" class="factsheet" nowrap="nowrap">730.60</td>
+</tr>
+<tr>
+<td align="left" class="factsheet">EBIT</td>
+<td align="right" class="factsheet" nowrap="nowrap">362.89</td>
+<td align="right" class="factsheet" nowrap="nowrap">300.56</td>
+<td align="right" class="factsheet" nowrap="nowrap">1,475.19</td>
+<td align="right" class="factsheet" nowrap="nowrap">1,242.27</td>
+<td align="right" class="factsheet" nowrap="nowrap">940.72</td>
+</tr>
+<tr>
+<td align="left" class="factsheet-tb">Net Profit</td>
+<td align="right" class="factsheet-tb" nowrap="nowrap">211.86</td>
+<td align="right" class="factsheet-tb" nowrap="nowrap">166.44</td>
+<td align="right" class="factsheet-tb" nowrap="nowrap">883.37</td>
+<td align="right" class="factsheet-tb" nowrap="nowrap">712.75</td>
+<td align="right" class="factsheet-tb" nowrap="nowrap">502.27</td>
+</tr>
+<tr>
+<td align="left" class="factsheet">EPS (B.)</td>
+<td align="right" class="factsheet" nowrap="nowrap">0.20</td>
+<td align="right" class="factsheet" nowrap="nowrap">0.15</td>
+<td align="right" class="factsheet" nowrap="nowrap">0.82</td>
+<td align="right" class="factsheet" nowrap="nowrap">0.66</td>
+<td align="right" class="factsheet" nowrap="nowrap">0.59</td>
+</tr>
+<tr>
+<td align="right" colspan="6"><a class="factsheet" href="/set/companyfinance.do?type=income&amp;symbol=UNIQ&amp;language=en&amp;country=US">more</a></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2" width="100%">
+<table border="0" cellpadding="0" cellspacing="0" class="table-factsheet-padding0" width="100%">
+<tr>
+<td align="left" class="factsheet-head"><strong>Statement of Cash Flow (MB.)</strong></td>
+<td align="right" class="factsheet-head" nowrap="nowrap"><strong>3M/2017 <br/>(01/01/17 <br/> -31/03/17) </strong></td>
+<td align="right" class="factsheet-head" nowrap="nowrap"><strong>3M/2016 <br/>(01/01/16 <br/> -31/03/16) </strong></td>
+<td align="right" class="factsheet-head" nowrap="nowrap"><strong>2016 <br/>(01/01/16 <br/> -31/12/16) </strong></td>
+<td align="right" class="factsheet-head" nowrap="nowrap"><strong>2015 <br/>(01/01/15 <br/> -31/12/15) </strong></td>
+<td align="right" class="factsheet-head" nowrap="nowrap"><strong>2014 <br/>(01/01/14 <br/> -31/12/14) </strong></td>
+</tr>
+<tr align="right">
+<td align="left" class="factsheet">Operating Cash Flow                                                                                   </td>
+<td align="right" class="factsheet" nowrap="nowrap">166.50</td>
+<td align="right" class="factsheet" nowrap="nowrap">1,209.49</td>
+<td align="right" class="factsheet" nowrap="nowrap">2,191.66</td>
+<td align="right" class="factsheet" nowrap="nowrap">-801.81</td>
+<td align="right" class="factsheet" nowrap="nowrap">-1,635.14</td>
+</tr>
+<tr align="right">
+<td align="left" class="factsheet">Investing Cash Flow                                                                                   </td>
+<td align="right" class="factsheet" nowrap="nowrap">-42.45</td>
+<td align="right" class="factsheet" nowrap="nowrap">12.86</td>
+<td align="right" class="factsheet" nowrap="nowrap">-728.34</td>
+<td align="right" class="factsheet" nowrap="nowrap">443.99</td>
+<td align="right" class="factsheet" nowrap="nowrap">-1,395.12</td>
+</tr>
+<tr align="right">
+<td align="left" class="factsheet">Financing Cash Flow                                                                                   </td>
+<td align="right" class="factsheet" nowrap="nowrap">-250.30</td>
+<td align="right" class="factsheet" nowrap="nowrap">-1,063.80</td>
+<td align="right" class="factsheet" nowrap="nowrap">-1,034.88</td>
+<td align="right" class="factsheet" nowrap="nowrap">56.84</td>
+<td align="right" class="factsheet" nowrap="nowrap">3,298.83</td>
+</tr>
+<tr align="right">
+<td align="left" class="factsheet-tb">Net Cash Flow                                                                                         </td>
+<td align="right" class="factsheet-tb" nowrap="nowrap">-126.26</td>
+<td align="right" class="factsheet-tb" nowrap="nowrap">158.56</td>
+<td align="right" class="factsheet-tb" nowrap="nowrap">428.44</td>
+<td align="right" class="factsheet-tb" nowrap="nowrap">-300.98</td>
+<td align="right" class="factsheet-tb" nowrap="nowrap">268.56</td>
+</tr>
+<tr>
+<td align="right" colspan="6"><a class="factsheet" href="/set/companyfinance.do?type=cashflow&amp;symbol=UNIQ&amp;language=en&amp;country=US">more</a></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style="vertical-align:top;" width="50%">
+<table border="0" cellpadding="0" cellspacing="0" class="table-factsheet-padding0" width="100%">
+<tr>
+<td align="right" class="remark" colspan="5">Annualized: ROE, ROA</td>
+</tr>
+<tr>
+<td align="left" class="factsheet-head" width="25%"><strong>Ratios</strong></td>
+<td align="right" class="factsheet-head" nowrap="nowrap"><strong>3M/2017 </strong></td>
+<td align="right" class="factsheet-head" nowrap="nowrap"><strong>3M/2016 </strong></td>
+<td align="right" class="factsheet-head" nowrap="nowrap"><strong>2016 </strong></td>
+<td align="right" class="factsheet-head" nowrap="nowrap"><strong>2015 </strong></td>
+</tr>
+<tr>
+<td class="factsheet">Current Ratio (X)</td>
+<td align="right" class="factsheet" nowrap="nowrap">1.16</td>
+<td align="right" class="factsheet" nowrap="nowrap">1.22</td>
+<td align="right" class="factsheet" nowrap="nowrap">1.19</td>
+<td align="right" class="factsheet" nowrap="nowrap">1.22</td>
+</tr>
+<tr>
+<td class="factsheet">ROE (%)</td>
+<td align="right" class="factsheet" nowrap="nowrap">14.70</td>
+<td align="right" class="factsheet" nowrap="nowrap">12.27</td>
+<td align="right" class="factsheet" nowrap="nowrap">13.69</td>
+<td align="right" class="factsheet" nowrap="nowrap">12.07</td>
+</tr>
+<tr>
+<td class="factsheet">ROA (%)</td>
+<td align="right" class="factsheet" nowrap="nowrap">7.11</td>
+<td align="right" class="factsheet" nowrap="nowrap">7.09</td>
+<td align="right" class="factsheet" nowrap="nowrap">6.91</td>
+<td align="right" class="factsheet" nowrap="nowrap">6.84</td>
+</tr>
+<tr>
+<td class="factsheet">D/E (X)</td>
+<td align="right" class="factsheet" nowrap="nowrap">2.74</td>
+<td align="right" class="factsheet" nowrap="nowrap">2.07</td>
+<td align="right" class="factsheet" nowrap="nowrap">2.52</td>
+<td align="right" class="factsheet" nowrap="nowrap">2.08</td>
+</tr>
+<tr>
+<td class="factsheet">Total Asset Turnover (X)</td>
+<td align="right" class="factsheet" nowrap="nowrap">0.61</td>
+<td align="right" class="factsheet" nowrap="nowrap">0.59</td>
+<td align="right" class="factsheet" nowrap="nowrap">0.59</td>
+<td align="right" class="factsheet" nowrap="nowrap">0.56</td>
+</tr>
+<tr>
+<td class="factsheet">Gross Profit Margin (%)</td>
+<td align="right" class="factsheet" nowrap="nowrap">18.49</td>
+<td align="right" class="factsheet" nowrap="nowrap">20.39</td>
+<td align="right" class="factsheet" nowrap="nowrap">16.78</td>
+<td align="right" class="factsheet" nowrap="nowrap">17.82</td>
+</tr>
+<tr>
+<td class="factsheet">EBIT Margin (%)</td>
+<td align="right" class="factsheet" nowrap="nowrap">11.99</td>
+<td align="right" class="factsheet" nowrap="nowrap">12.37</td>
+<td align="right" class="factsheet" nowrap="nowrap">11.65</td>
+<td align="right" class="factsheet" nowrap="nowrap">12.20</td>
+</tr>
+<tr>
+<td class="factsheet">Net Profit Margin (%)</td>
+<td align="right" class="factsheet" nowrap="nowrap">7.00</td>
+<td align="right" class="factsheet" nowrap="nowrap">6.85</td>
+<td align="right" class="factsheet" nowrap="nowrap">6.97</td>
+<td align="right" class="factsheet" nowrap="nowrap">7.00</td>
+</tr>
+</table>
+<br/><table border="0" cellpadding="0" cellspacing="0" class="table-factsheet-padding0" width="100%">
+<tr>
+<td align="right" class="remark" colspan="5">Information only PP, PO, XR and XD</td>
+</tr>
+<tr align="left" valign="middle">
+<td class="factsheet-head" colspan="5"><strong>Capital Movement (Last 3 Year)</strong></td>
+</tr>
+<tr align="center">
+<td class="factsheet"><strong>Date</strong></td>
+<td class="factsheet"><strong>CA Type</strong></td>
+<td class="factsheet"><strong>Changed paid up share</strong></td>
+<td class="factsheet"><strong>Paid up share</strong></td>
+<td class="factsheet" nowrap="nowrap"><strong>Par</strong></td>
+</tr>
+<tr align="right">
+<td align="center" class="factsheet">14 Nov 2014</td>
+<td align="center" class="factsheet">XR</td>
+<td class="factsheet">51,476,964</td>
+<td align="center" class="factsheet">1,081,016,253</td>
+<td class="factsheet">1.00</td>
+</tr>
+<tr align="right">
+<td align="center" class="factsheet">30 Sep 2014</td>
+<td align="center" class="factsheet">PP</td>
+<td class="factsheet">67,736,900</td>
+<td align="center" class="factsheet">1,029,539,289</td>
+<td class="factsheet">1.00</td>
+</tr>
+<tr align="right">
+<td align="center" class="factsheet">19 Sep 2014</td>
+<td align="center" class="factsheet">PP</td>
+<td class="factsheet">182,263,100</td>
+<td align="center" class="factsheet">961,802,389</td>
+<td class="factsheet">1.00</td>
+</tr>
+</table>
+</td>
+<td style="vertical-align:top;" width="50%">
+<br/><table border="0" cellpadding="0" cellspacing="0" class="table-factsheet-padding0" width="100%">
+<tr>
+<td align="left" class="factsheet-head" width="25%"><strong>Growth Rate (%)</strong></td>
+<td align="right" class="factsheet-head" nowrap="nowrap"><strong>3M/2017 </strong></td>
+<td align="right" class="factsheet-head" nowrap="nowrap"><strong>3M/2016 </strong></td>
+<td align="right" class="factsheet-head" nowrap="nowrap"><strong>2016 </strong></td>
+<td align="right" class="factsheet-head" nowrap="nowrap"><strong>2015 </strong></td>
+</tr>
+<tr>
+<td class="factsheet">Sales Growth</td>
+<td align="right" class="factsheet" nowrap="nowrap">24.62</td>
+<td align="right" class="factsheet" nowrap="nowrap">14.06</td>
+<td align="right" class="factsheet" nowrap="nowrap">24.68</td>
+<td align="right" class="factsheet" nowrap="nowrap">24.18</td>
+</tr>
+<tr>
+<td class="factsheet">COGs Growth</td>
+<td align="right" class="factsheet" nowrap="nowrap">27.60</td>
+<td align="right" class="factsheet" nowrap="nowrap">12.94</td>
+<td align="right" class="factsheet" nowrap="nowrap">26.27</td>
+<td align="right" class="factsheet" nowrap="nowrap">24.71</td>
+</tr>
+<tr>
+<td class="factsheet">Total Revenue Growth</td>
+<td align="right" class="factsheet" nowrap="nowrap">24.56</td>
+<td align="right" class="factsheet" nowrap="nowrap">13.95</td>
+<td align="right" class="factsheet" nowrap="nowrap">24.38</td>
+<td align="right" class="factsheet" nowrap="nowrap">24.18</td>
+</tr>
+<tr>
+<td class="factsheet">Total Expense Growth</td>
+<td align="right" class="factsheet" nowrap="nowrap">25.10</td>
+<td align="right" class="factsheet" nowrap="nowrap">14.75</td>
+<td align="right" class="factsheet" nowrap="nowrap">25.16</td>
+<td align="right" class="factsheet" nowrap="nowrap">23.16</td>
+</tr>
+<tr>
+<td class="factsheet">Net Profit Growth</td>
+<td align="right" class="factsheet" nowrap="nowrap">27.29</td>
+<td align="right" class="factsheet" nowrap="nowrap">8.68</td>
+<td align="right" class="factsheet" nowrap="nowrap">23.94</td>
+<td align="right" class="factsheet" nowrap="nowrap">41.91</td>
+</tr>
+</table>
+<br/><table border="0" cellpadding="0" cellspacing="0" class="table-factsheet-padding0" width="100%">
+<tr>
+<td align="right" class="remark" colspan="5">Annualized</td>
+</tr>
+<tr>
+<td align="left" class="factsheet-head" width="30%"><strong>Cash Cycle</strong></td>
+<td align="right" class="factsheet-head" nowrap="nowrap"><strong>3M/2017 </strong></td>
+<td align="right" class="factsheet-head" nowrap="nowrap"><strong>3M/2016 </strong></td>
+<td align="right" class="factsheet-head" nowrap="nowrap"><strong>2016 </strong></td>
+<td align="right" class="factsheet-head" nowrap="nowrap"><strong>2015 </strong></td>
+</tr>
+<tr>
+<td class="factsheet">A/R Turnover (Times)</td>
+<td align="right" class="factsheet" nowrap="nowrap">0.98</td>
+<td align="right" class="factsheet" nowrap="nowrap">0.99</td>
+<td align="right" class="factsheet" nowrap="nowrap">0.94</td>
+<td align="right" class="factsheet" nowrap="nowrap">0.99</td>
+</tr>
+<tr>
+<td class="factsheet">Avg. Collection Period (Days)</td>
+<td align="right" class="factsheet" nowrap="nowrap">371.32</td>
+<td align="right" class="factsheet" nowrap="nowrap">368.48</td>
+<td align="right" class="factsheet" nowrap="nowrap">386.39</td>
+<td align="right" class="factsheet" nowrap="nowrap">367.55</td>
+</tr>
+<tr>
+<td class="factsheet">Inventory Turnover (Times)</td>
+<td align="right" class="factsheet" nowrap="nowrap">11.90</td>
+<td align="right" class="factsheet" nowrap="nowrap">11.42</td>
+<td align="right" class="factsheet" nowrap="nowrap">12.33</td>
+<td align="right" class="factsheet" nowrap="nowrap">8.78</td>
+</tr>
+<tr>
+<td class="factsheet">Avg. Inventory Period (Days)</td>
+<td align="right" class="factsheet" nowrap="nowrap">30.68</td>
+<td align="right" class="factsheet" nowrap="nowrap">31.95</td>
+<td align="right" class="factsheet" nowrap="nowrap">29.61</td>
+<td align="right" class="factsheet" nowrap="nowrap">41.57</td>
+</tr>
+<tr>
+<td class="factsheet">A/P Turnover  (Times)</td>
+<td align="right" class="factsheet" nowrap="nowrap">1.71</td>
+<td align="right" class="factsheet" nowrap="nowrap">2.61</td>
+<td align="right" class="factsheet" nowrap="nowrap">1.80</td>
+<td align="right" class="factsheet" nowrap="nowrap">3.78</td>
+</tr>
+<tr>
+<td class="factsheet">Avg. Payment Period (Days)</td>
+<td align="right" class="factsheet" nowrap="nowrap">213.76</td>
+<td align="right" class="factsheet" nowrap="nowrap">139.76</td>
+<td align="right" class="factsheet" nowrap="nowrap">202.23</td>
+<td align="right" class="factsheet" nowrap="nowrap">96.49</td>
+</tr>
+<tr>
+<td class="factsheet">Cash Cycle (Days)</td>
+<td align="right" class="factsheet" nowrap="nowrap">188.24</td>
+<td align="right" class="factsheet" nowrap="nowrap">260.67</td>
+<td align="right" class="factsheet" nowrap="nowrap">213.77</td>
+<td align="right" class="factsheet" nowrap="nowrap">312.64</td>
+</tr>
+</table>
+<br/> </td>
+</tr>
+<tr>
+<td><br/>
+<table border="0" cellpadding="0" cellspacing="0" class="table-factsheet-padding0" width="100%">
+<tr align="left" valign="middle">
+<td class="factsheet-head" colspan="3"><strong>Trading Sign (Latest)</strong></td>
+</tr>
+<tr align="center">
+<td class="factsheet"><strong>Trading Alert</strong></td>
+<td class="factsheet"><strong>Posted Date</strong></td>
+<td class="factsheet"><strong>Lifted Date</strong></td>
+</tr>
+<tr>
+<td align="center" class="factsheet-red" colspan="3"><strong>No Information Found</strong></td>
+</tr>
+</table>
+<br/><table border="0" cellpadding="0" cellspacing="0" class="table-factsheet-padding0" width="100%">
+<tr align="left" valign="middle">
+<td class="factsheet-head" colspan="3"><strong>Market Alert (Latest)</strong></td>
+</tr>
+<tr>
+<td align="center" class="factsheet-red" colspan="2"><strong>No Information Found</strong></td>
+</tr>
+<tr>
+<td align="right" colspan="2">
+<a class="factsheet" href="/set/marketalertnews.do?symbol=UNIQ&amp;from=09/05/2017&amp;to=09/06/2017&amp;tradingAlert=on&amp;cashBalance=on&amp;investorAlert=on&amp;otherAction=on&amp;exchangeEnquiries=on">
+more
+</a>
+</td>
+</tr>
+</table>
+<br/> </td>
+<td>
+<table border="0" cellpadding="0" cellspacing="0" class="table-factsheet-padding0" width="100%">
+<tr>
+<td align="right" class="remark" colspan="3">Only Preferred Share and Warrants</td>
+</tr>
+<tr align="left" valign="middle">
+<td class="factsheet-head" colspan="2"><strong>Other Securities</strong></td>
+</tr>
+<tr>
+<td class="factsheet" width="25%"><strong>Securities Name</strong></td>
+<td class="factsheet">-</td>
+</tr>
+</table>
+<br/> </td>
+</tr>
+<tr>
+<td colspan="2">
+<table border="0" cellpadding="1" cellspacing="0" width="100%">
+<tr align="left">
+<td class="remark">Remark</td>
+<td align="right" class="remark" width="5"> - </td>
+<td class="remark">Calculated from adjusted price        </td>
+</tr>
+<tr align="left">
+<td> </td>
+<td align="right" class="remark" width="5"> - </td>
+<td class="remark">Presented and calculated from the consolidated statement and displayed as cumulative quarterly statement by fiscal year (Company statement will be presented and calculated incase consolidated statement is not available.)        </td>
+</tr>
+<tr align="left">
+<td> </td>
+<td align="right" class="remark" width="5"> - </td>
+<td class="remark">The information is quarterly updated within 7 business days after the new financial statement is submitted.        </td>
+</tr>
+<tr align="left">
+<td> </td>
+<td align="right" class="remark" width="5"> - <br/> </td>
+<td class="remark">Information on the financial statements is presented according to the information that the listed companies submit on that period. The investors should study additional information from the companies' financial statements since some companies may restate the comparing financial statements on the latest financial statements.        </td>
+</tr>
+</table>
+</td>
+</tr>
+<tr height="3">
+<td colspan="2"><img height="3" src="/images/spacer.gif" width="1"/></td>
+</tr>
+<tr>
+<td class="factsheet-noline" colspan="2" style="border-top: 2px solid #000000;">
+Source: www.set.or.th (Copyright © The Stock Exchange of Thailand)    </td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;padding-bottom: 10px">
+<div class="input-form">
+<div class="remark-content" style="text-align:center;margin-top:0px;">
+             The Information is provided for informative and educational purposes only.
+         </div>
+</div>
+<br/>
+<!--BEGIN WEB STAT CODE---->
+<script language="javascript1.1"> page="en - Companies - Company Summary";</script>
+<script type="text/javascript">
+     (function() {
+       var ga = document.createElement('script'); ga.type = 'text/javascript';
+       ga.async = true;
+       ga.src = "//lvs.truehits.in.th/dataa/c0002486.js";
+       var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+     })();
+   </script>
+<!-- END WEBSTAT CODE -->
+<script src="//www.google-analytics.com/urchin.js" type="text/javascript"></script>
+<script type="text/javascript">
+    _uacct = "UA-426404-1";
+    urchinTracker();
+  </script>
+</td>
+</tr>
+</table>
+</body>
+</html>

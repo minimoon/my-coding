@@ -41,7 +41,7 @@ print lg
 
 prelink = 'http://www.set.or.th/set/factsheet.do?ssoPageId=3&language='+lg+'&country=TH&symbol='
 
-for name in filename[0:3]:
+for name in filename[:]:
     name = name.upper()
     name = name.strip()
     print name
